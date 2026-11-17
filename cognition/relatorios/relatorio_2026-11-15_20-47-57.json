@@ -1,0 +1,1522 @@
+{
+    "aprendidos_com_outros": 71,
+    "defesas": [
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:51:31",
+            "ms_antes": 137,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:46",
+            "animacao_depois": "14:46",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:51:53",
+            "ms_antes": 87,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:46",
+            "animacao_depois": "14:46",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:51:53",
+            "ms_antes": 105,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:51:57",
+            "ms_antes": 69,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:202",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:52:17",
+            "ms_antes": 69,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:54",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:52:17",
+            "ms_antes": 143,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:201",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:52:43",
+            "ms_antes": 137,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:289",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:53:22",
+            "ms_antes": 129,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:289",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:53:22",
+            "ms_antes": 83,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:164",
+            "animacao_depois": "20:164",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:53:27",
+            "ms_antes": 107,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:288",
+            "animacao_depois": "20:288",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:53:29",
+            "ms_antes": 90,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:53:42",
+            "ms_antes": -1,
+            "resultado": "nao deu (sem tempo)"
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:53:42",
+            "ms_antes": -1,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:288",
+            "animacao_depois": "20:290",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:54:01",
+            "ms_antes": 94,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:292",
+            "animacao_depois": "20:292",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:54:03",
+            "ms_antes": 65,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:289",
+            "animacao_depois": "20:290",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:54:20",
+            "ms_antes": 102,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:212",
+            "animacao_depois": "20:290",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:54:25",
+            "ms_antes": 93,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:212",
+            "animacao_depois": "20:212",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:16:50:159",
+            "hora": "20:55:48",
+            "ms_antes": 1860,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:16:50:159",
+            "hora": "20:55:53",
+            "ms_antes": 1861,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:202",
+            "animacao_depois": "20:202",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:16:geometria",
+            "hora": "20:55:59",
+            "ms_antes": 140,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:201",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:16:geometria",
+            "hora": "20:56:02",
+            "ms_antes": 136,
+            "resultado": "OK (sem dano)"
+        },
+        {
+            "animacao_antes": "20:202",
+            "animacao_depois": "20:202",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:56:59",
+            "ms_antes": 71,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:201",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:57:20",
+            "ms_antes": 143,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:443",
+            "animacao_depois": "20:63",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:57:22",
+            "ms_antes": 121,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:447",
+            "animacao_depois": "7:218",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:57:40",
+            "ms_antes": 84,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:448",
+            "animacao_depois": "20:150",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:57:57",
+            "ms_antes": 60,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:443",
+            "animacao_depois": "20:62",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:50:64",
+            "hora": "20:58:00",
+            "ms_antes": 124,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "14:46",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:58:02",
+            "ms_antes": 78,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:46",
+            "animacao_depois": "14:110",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:1:geometria",
+            "hora": "20:58:03",
+            "ms_antes": 149,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:5",
+            "hora": "21:00:43",
+            "ms_antes": 140,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:5",
+            "hora": "21:00:44",
+            "ms_antes": 148,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:100",
+            "hora": "21:00:47",
+            "ms_antes": 131,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:201",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:2:1",
+            "hora": "21:00:49",
+            "ms_antes": 2546,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "14:64",
+            "animacao_depois": "14:64",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:1",
+            "hora": "21:00:53",
+            "ms_antes": 131,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:200",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:50:283",
+            "hora": "21:00:57",
+            "ms_antes": 2114,
+            "resultado": "ISS saiu, sem contra-ataque"
+        },
+        {
+            "animacao_antes": "20:212",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:103",
+            "hora": "21:01:09",
+            "ms_antes": 133,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:123",
+            "hora": "21:01:37",
+            "ms_antes": 125,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:61",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:123",
+            "hora": "21:01:37",
+            "ms_antes": 148,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:117",
+            "hora": "21:01:39",
+            "ms_antes": 123,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:60",
+            "hora": "21:01:42",
+            "ms_antes": 128,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:61",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:01:42",
+            "ms_antes": 148,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:61",
+            "animacao_depois": "20:436",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:5",
+            "hora": "21:01:43",
+            "ms_antes": 142,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:210",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:45",
+            "hora": "21:01:48",
+            "ms_antes": 144,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:165",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:117",
+            "hora": "21:01:51",
+            "ms_antes": 120,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:200",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:50:113",
+            "hora": "21:01:52",
+            "ms_antes": 2167,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "20:208",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:50:30",
+            "hora": "21:01:58",
+            "ms_antes": 2975,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:252",
+            "animacao_depois": "20:252",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:2:59",
+            "hora": "21:02:01",
+            "ms_antes": 2540,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "14:54",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:02:06",
+            "ms_antes": 148,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:2",
+            "hora": "21:02:20",
+            "ms_antes": 138,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:54",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:2",
+            "hora": "21:02:20",
+            "ms_antes": 147,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:54",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:2",
+            "hora": "21:02:20",
+            "ms_antes": 144,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:200",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:50:125",
+            "hora": "21:02:39",
+            "ms_antes": 3000,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:30",
+            "animacao_depois": "14:48",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:114",
+            "hora": "21:02:45",
+            "ms_antes": 147,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:116",
+            "animacao_depois": "14:116",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:02:46",
+            "ms_antes": 112,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:322",
+            "animacao_depois": "20:290",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:50:120",
+            "hora": "21:02:54",
+            "ms_antes": 90,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:447",
+            "animacao_depois": "20:199",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:50:123",
+            "hora": "21:03:01",
+            "ms_antes": 117,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:199",
+            "animacao_depois": "20:290",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:50:123",
+            "hora": "21:03:02",
+            "ms_antes": 94,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:285",
+            "animacao_depois": "20:285",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:104",
+            "hora": "21:03:04",
+            "ms_antes": 128,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:292",
+            "animacao_depois": "7:150",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:4:22",
+            "hora": "21:03:08",
+            "ms_antes": 99,
+            "resultado": "OK (sem dano)"
+        },
+        {
+            "animacao_antes": "14:46",
+            "animacao_depois": "14:46",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:50:284",
+            "hora": "21:03:14",
+            "ms_antes": 113,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:166",
+            "animacao_depois": "14:54",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:50:101",
+            "hora": "21:03:17",
+            "ms_antes": 102,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:54",
+            "animacao_depois": "14:64",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:03:17",
+            "ms_antes": 92,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:64",
+            "animacao_depois": "14:64",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:03:19",
+            "ms_antes": 77,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "14:46",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:113",
+            "hora": "21:03:31",
+            "ms_antes": 136,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:46",
+            "animacao_depois": "14:110",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:03:32",
+            "ms_antes": 139,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:199",
+            "animacao_depois": "14:46",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:4:1",
+            "hora": "21:03:47",
+            "ms_antes": 127,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:166",
+            "animacao_depois": "20:166",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:6",
+            "hora": "21:03:49",
+            "ms_antes": 136,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "14:46",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:122",
+            "hora": "21:03:51",
+            "ms_antes": 130,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:110",
+            "animacao_depois": "14:110",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:03:52",
+            "ms_antes": 144,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:211",
+            "animacao_depois": "20:211",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:4:1",
+            "hora": "21:04:07",
+            "ms_antes": 2968,
+            "resultado": "cancelado por voce (M1)"
+        },
+        {
+            "animacao_antes": "14:54",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:3",
+            "hora": "21:04:12",
+            "ms_antes": 136,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:54",
+            "animacao_depois": "14:64",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:3",
+            "hora": "21:04:12",
+            "ms_antes": 118,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:211",
+            "animacao_depois": "14:52",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:59",
+            "hora": "21:04:24",
+            "ms_antes": 148,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:64",
+            "animacao_depois": "14:64",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:1",
+            "hora": "21:04:25",
+            "ms_antes": 135,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "14:46",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:276",
+            "hora": "21:04:37",
+            "ms_antes": 140,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:166",
+            "animacao_depois": "20:166",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:113",
+            "hora": "21:04:38",
+            "ms_antes": 126,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:45",
+            "hora": "21:04:40",
+            "ms_antes": 135,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:312",
+            "animacao_depois": "20:200",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:04:41",
+            "ms_antes": 127,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:04:41",
+            "ms_antes": 147,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:5",
+            "hora": "21:04:44",
+            "ms_antes": 140,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:3",
+            "animacao_depois": "14:3",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:5",
+            "hora": "21:04:45",
+            "ms_antes": 135,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:200",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:2:1",
+            "hora": "21:05:04",
+            "ms_antes": 1801,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "14:64",
+            "animacao_depois": "14:64",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:1",
+            "hora": "21:05:06",
+            "ms_antes": 119,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:114",
+            "hora": "21:05:18",
+            "ms_antes": 142,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:212",
+            "animacao_depois": "14:44",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:116",
+            "hora": "21:05:24",
+            "ms_antes": 122,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:44",
+            "animacao_depois": "14:44",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:59",
+            "hora": "21:05:24",
+            "ms_antes": 141,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:208",
+            "animacao_depois": "20:208",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:05:27",
+            "ms_antes": 139,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:208",
+            "animacao_depois": "20:208",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:05:27",
+            "ms_antes": 144,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:210",
+            "animacao_depois": "14:58",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:100",
+            "hora": "21:05:29",
+            "ms_antes": 129,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:58",
+            "animacao_depois": "14:58",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:05:30",
+            "ms_antes": 118,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:350",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:134",
+            "hora": "21:06:25",
+            "ms_antes": 143,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:201",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:2:2",
+            "hora": "21:06:28",
+            "ms_antes": 2984,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:195",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:4:1",
+            "hora": "21:06:35",
+            "ms_antes": 2982,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:201",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:50:101",
+            "hora": "21:06:41",
+            "ms_antes": 1972,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "14:54",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:06:43",
+            "ms_antes": 126,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:64",
+            "animacao_depois": "14:64",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:293",
+            "hora": "21:06:45",
+            "ms_antes": 126,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:200",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:50:30",
+            "hora": "21:07:05",
+            "ms_antes": 2637,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:288",
+            "animacao_depois": "14:46",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:50:116",
+            "hora": "21:07:19",
+            "ms_antes": 79,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:46",
+            "animacao_depois": "14:46",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:2:59",
+            "hora": "21:07:19",
+            "ms_antes": 119,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "14:58",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:07:22",
+            "ms_antes": 96,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:58",
+            "animacao_depois": "14:58",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:07:22",
+            "ms_antes": 128,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:67",
+            "animacao_depois": "14:67",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:07:25",
+            "ms_antes": 148,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:286",
+            "animacao_depois": "20:290",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:2:100",
+            "hora": "21:07:37",
+            "ms_antes": 95,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:210",
+            "animacao_depois": "20:290",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:50:283",
+            "hora": "21:07:41",
+            "ms_antes": 88,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:212",
+            "animacao_depois": "20:290",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:2:59",
+            "hora": "21:07:46",
+            "ms_antes": 107,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:201",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:2:2",
+            "hora": "21:07:49",
+            "ms_antes": 2986,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:289",
+            "animacao_depois": "20:289",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:4:1",
+            "hora": "21:07:56",
+            "ms_antes": 2980,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "20:466",
+            "animacao_depois": "20:466",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:4:1",
+            "hora": "21:08:00",
+            "ms_antes": 97,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:161",
+            "animacao_depois": "20:209",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:2:66",
+            "hora": "21:08:12",
+            "ms_antes": 118,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:209",
+            "animacao_depois": "14:54",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:08:13",
+            "ms_antes": 121,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:58",
+            "animacao_depois": "14:58",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:2:59",
+            "hora": "21:08:25",
+            "ms_antes": 90,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:58",
+            "animacao_depois": "14:58",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:135",
+            "hora": "21:08:25",
+            "ms_antes": 150,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:58",
+            "animacao_depois": "14:67",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:59",
+            "hora": "21:08:25",
+            "ms_antes": 122,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:67",
+            "animacao_depois": "14:67",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:291",
+            "hora": "21:08:27",
+            "ms_antes": 142,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:67",
+            "animacao_depois": "14:60",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:147",
+            "hora": "21:08:27",
+            "ms_antes": 132,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:285",
+            "animacao_depois": "14:54",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:2:3",
+            "hora": "21:08:36",
+            "ms_antes": 106,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "14:54",
+            "animacao_depois": "14:64",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:3",
+            "hora": "21:08:37",
+            "ms_antes": 124,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "14:56",
+            "animacao_depois": "14:56",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:08:57",
+            "ms_antes": 140,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:200",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:129",
+            "hora": "21:09:10",
+            "ms_antes": 118,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:200",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:geometria",
+            "hora": "21:09:10",
+            "ms_antes": 147,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "14:46",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:6",
+            "hora": "21:09:13",
+            "ms_antes": 139,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:165",
+            "animacao_depois": "20:166",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:6",
+            "hora": "21:09:15",
+            "ms_antes": 136,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:166",
+            "animacao_depois": "20:166",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:2:6",
+            "hora": "21:09:15",
+            "ms_antes": 135,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:123",
+            "hora": "21:09:18",
+            "ms_antes": 143,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:123",
+            "hora": "21:09:19",
+            "ms_antes": 126,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:111",
+            "hora": "21:09:21",
+            "ms_antes": 135,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:275",
+            "hora": "21:09:24",
+            "ms_antes": 144,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:200",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:2:117",
+            "hora": "21:09:25",
+            "ms_antes": 2517,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:289",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:4:1",
+            "hora": "21:09:32",
+            "ms_antes": 2982,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:288",
+            "animacao_depois": "20:290",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:50:113",
+            "hora": "21:09:39",
+            "ms_antes": 92,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:289",
+            "animacao_depois": "20:290",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:50:123",
+            "hora": "21:09:43",
+            "ms_antes": 100,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:214",
+            "animacao_depois": "14:54",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:8:t:50:104",
+            "hora": "21:09:46",
+            "ms_antes": 98,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:163",
+            "animacao_depois": "20:163",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:2:1",
+            "hora": "21:09:50",
+            "ms_antes": 2541,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:8:t:50:134",
+            "hora": "21:10:24",
+            "ms_antes": 125,
+            "resultado": "LEVOU DANO"
+        },
+        {
+            "animacao_antes": "20:200",
+            "animacao_depois": "20:200",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:8:t:4:1",
+            "hora": "21:10:27",
+            "ms_antes": 2997,
+            "resultado": "ISS saiu, sem contra-ataque"
+        }
+    ],
+    "monstros": [
+        {
+            "animacoes": 104,
+            "cobertura": 79,
+            "golpes_em_voce_sessao": 45,
+            "id": "8:t",
+            "medicoes": 688,
+            "nome": "Tempered Lagiacrus",
+            "previstos_sessao": 40
+        },
+        {
+            "animacoes": 46,
+            "cobertura": 66,
+            "id": "6:t",
+            "medicoes": 161,
+            "nome": "Tempered Congalala"
+        },
+        {
+            "animacoes": 53,
+            "cobertura": 31,
+            "golpes_em_voce_sessao": 30,
+            "id": "1",
+            "medicoes": 89,
+            "nome": "Rathalos",
+            "previstos_sessao": 22
+        },
+        {
+            "animacoes": 15,
+            "cobertura": 43,
+            "golpes_em_voce_sessao": 3,
+            "id": "16",
+            "medicoes": 23,
+            "nome": "Doshaguma",
+            "previstos_sessao": 2
+        },
+        {
+            "animacoes": 4,
+            "cobertura": 0,
+            "id": "4",
+            "medicoes": 6,
+            "nome": "Yian Kut-Ku"
+        },
+        {
+            "animacoes": 65,
+            "cobertura": 96,
+            "id": "19",
+            "medicoes": 1780,
+            "nome": "Chatacabra"
+        },
+        {
+            "animacoes": 9,
+            "cobertura": 0,
+            "id": "13:t",
+            "medicoes": 9,
+            "nome": "Tempered Mizutsune"
+        },
+        {
+            "animacoes": 44,
+            "cobertura": 32,
+            "id": "6",
+            "medicoes": 62,
+            "nome": "Congalala"
+        },
+        {
+            "animacoes": 79,
+            "cobertura": 61,
+            "id": "26",
+            "medicoes": 219
+        },
+        {
+            "animacoes": 62,
+            "cobertura": 13,
+            "id": "1:t",
+            "medicoes": 86,
+            "nome": "Tempered Rathalos"
+        },
+        {
+            "animacoes": 2,
+            "cobertura": 0,
+            "id": "23",
+            "medicoes": 2,
+            "nome": "Rey Dau"
+        },
+        {
+            "animacoes": 58,
+            "cobertura": 66,
+            "id": "20",
+            "medicoes": 174,
+            "nome": "Quematrice"
+        },
+        {
+            "animacoes": 8,
+            "cobertura": 0,
+            "id": "29",
+            "medicoes": 8,
+            "nome": "Hirabami"
+        }
+    ],
+    "prints": [
+        "== Defesa Automatica v0.82 ==",
+        "Arma: Long Sword (foresight > esquiva) - sacada: false - defesa: parada: M4 (guardar a arma e correr) - jogadores: 1 - Guard Up: sim - M4: comandos 26",
+        "Tempos (ms antes do golpe): Foresight Slash 120 - esquiva 150 - ls_iss_ms 197 - ls_ss_min_ms 1700 - ls_ss_max_ms 3000 - ls_janela_combo_ms 2300 - ls_bloqueio_ms 400",
+        "Long Sword: em combo = false - ultimo golpe seu ha 0.9s (janela 2300 ms) - sua animacao 20:3 - ataques aprendidos 83 - toques M5 38, M2 41",
+        "Long Sword: bloqueio dos seus botoes na animacao atual 400 ms - aprendido em 29 animacoes (maior 850 ms)",
+        "SS+ISS (prioridade 1, FS 2, esquiva 3): ligado - agora: - - nesta sessao: OK (contra-ataque do ISS): 10, ISS saiu, sem contra-ataque: 2, SS nao saiu: 7, cancelado por voce (M1): 1",
+        "Spirit Gauge: nivel 3 (YELLOW) - vermelho a partir de 4 - abaixo do vermelho: SS+ISS > FS > esquiva - modo: normal - golpes que o FS nao defende: 1",
+        "ISS: 197 ms antes do golpe (ajusta sozinho) - golpe chegou depois do M5 nos ultimos ISS certos: 118, 98, 85, 100, 254, 244, 264, 140 ms",
+        "SS: postura maxima 4000 ms (ainda nao medida) - SS sai de 25 animacoes suas (tempo que o seu golpe prende: 20:195 284ms (10/16), 20:198 434ms (1/1), 20:199 197ms (27/38), 20:200 830ms (31/36), 20:201 796ms (63/96), 20:202 356ms (2/3), 20:208 271ms (8/8), 20:209 318ms (2/3), 20:210 251ms (4/6), 20:211 394ms (29/34), 20:212 349ms (4/5), 20:213 1274ms (1/1), 20:252 342ms (14/25), 20:264 384ms (1/5), 20:265 268ms (3/6), 20:285 1165ms (1/2), 20:286 145ms (1/1), 20:288 181ms (5/7), 20:289 178ms (9/14), 20:292 261ms (2/2), 20:310 1142ms (1/3), 20:322 140ms (1/1), 20:323 518ms (1/1), 20:340 1225ms (1/1), 20:350 147ms (1/1)) - 14 animacoes onde o SS nao sai",
+        "Janela do combo (aprendida): FS ate 16 ms (saiu ate 0, nao saiu a partir de 32, 40 tentativas) - SS ate 2300 ms (saiu ate 0, nao saiu -, 40) - idade do combo agora 892 ms",
+        "Trava: comandos extras descobertos: 53, 63, 27, 16, 82, 70",
+        "Seus golpes: 68 medidos (o mais longo prende 1433 ms) - golpe atual 20:3 prende - ms - ataques livres",
+        "Leitura do SS+ISS: desligada - 0 leituras salvas nesta sessao",
+        "Vida: 150 - ultimo dano ha 9.6s",
+        "Ultimas defesas (nova primeiro): defesa - ms antes do golpe - sua animacao antes -> 0,25s depois - resultado",
+        "   SS+ISS - 2997 ms - 20:200 -> 20:200 - ISS saiu, sem contra-ataque",
+        "   esquiva - 125 ms - 20:201 -> 20:61 - LEVOU DANO",
+        "   SS+ISS - 2541 ms - 20:163 -> 20:163 - SS nao saiu",
+        "   Foresight Slash - 98 ms - 20:214 -> 14:54 - LEVOU DANO - apertou 1x",
+        "   Foresight Slash - 100 ms - 20:289 -> 20:290 - ... - apertou 1x",
+        "   Foresight Slash - 92 ms - 20:288 -> 20:290 - ... - apertou 1x",
+        "   SS+ISS - 2982 ms - 20:289 -> 20:249 - OK (contra-ataque do ISS)",
+        "   SS+ISS - 2517 ms - 20:200 -> 20:200 - OK (contra-ataque do ISS)",
+        "Ultima decisao: ISS em andamento: espera",
+        "Ultimo resultado: SS+ISS: ISS saiu, sem contra-ataque",
+        "Monstro: Tempered Lagiacrus (8:t) - 51.6 m - animacao 0:8",
+        "Conhecimento deste monstro: 104 animacoes, 688 medicoes - cobertura 79% - previstos nesta sessao: 40 de 45",
+        "Conhecimento (todos): 13 monstros, 549 animacoes, 3307 medicoes - previstos nesta sessao: 64 de 78 - ultimo erro: 92 ms - aprendidos no seu Palico: 71 - aprendidos defendendo (FS/ISS): 11",
+        "Aprendizado novo: por contato (esquivas / FS / ISS) 8 - contatos descartados 0 - pela area de ataque 5 (areas vistas 518, relogios acertados 20) - golpes repetidos vistos 12",
+        "Area de ataque: 133 animacoes com area vista, 12 confiaveis, 12 so com area (golpe nunca chegou em ninguem) - ganchos: contato ok, area ok, invencibilidade ok, fim da quest ok",
+        "Long Sword (jogo): contra do FS ativo 0.4 s, contra do ISS ativo 0.3 s, postura maxima 4.5 s - FS trocado por esquiva: 7 fora da janela, 0 sem barra - ISS esperou o jogo aceitar: 1",
+        "Geometria: areas medidas 1284 (encostaram em voce 314, passaram perto 370, longe 600) - golpes previstos pela geometria 85 - projeteis vistos 412 - rugidos 0",
+        "Tipos de golpe sem dano vistos: GESTURE 9, NORMAL 67, NONE 16, EAR 5, PREY_CONST 2, WIND 3",
+        "Golpes por estado do monstro (chegam antes - / depois +): Doshaguma normal: +36 ms (2) - Tempered Lagiacrus cansado: +92 ms (1) - Tempered Lagiacrus normal: +19 ms (18) - Tempered Lagiacrus raiva: -77 ms (21) - Rathalos raiva: +2 ms (6) - Rathalos normal: +77 ms (16)",
+        "Velocidade das animacoes de golpe: Doshaguma 1.00 (1.00 a 1.00) - Tempered Lagiacrus 1.00 (1.00 a 1.00) - Rathalos 1.00 (1.00 a 1.00)",
+        "Guardas confirmadas pelo jogo: nenhuma",
+        "Long Sword - golpes com nome do jogo: 291 (20:34=cMoveStop, 52:206=cPorterRideJumpOver, 20:161=cDownFaceDownStandUp, 56:16=cPorterRideStartJumpOnto, 24:30=cTempTentIdle, 14:46=cDamageSmashSmallFront, 7:20=cDamageStunEnd, 14:67=cLandSmashLeft, 14:60=cLandSmashFront, 1:20=cRunStop, 14:116=cSmashMiddleLeftToStandUp, 20:210=cKijinSlash2, 106:1=cRun, 11:151=cRun, 20:33=cMove, 13:42=cGetInTempTent, 7:260=cFeintDieStand, 50:300=cPorterRideDamageEar, 20:164=cDownFaceDownToMove, 52:189=cPorterRideJumpLanding, 52:167=cPorterRideJumpLanding, 52:76=cPorterRideStepJump, 13:351=cSimpleTalkIdle, 57:14=cPorterRideStartJumpOnto, 20:290=cMikiriSlash, 20:63=cDodgeRight, 50:69=cPorterRideDash, 14:0=cSmashSmallLandFront, 20:326=cKijinSlash1, 103:315=cPorterRideClimbing) - tabela salva: _ActionGuideData_Wp03ComboDetail 16, _ActionGuideData_Wp03 624, _ActionGuideData_Wp03Combo 3, _ActionGuideName_Wp03 79, _ActionGuideData_Wp03Always 37",
+        "Contatos de golpes em voce: 84 passaram, 4 falharam, 13 na sua invencibilidade",
+        "Invencibilidade: FS vermelho: 5 golpes, chegaram em media 62 ms depois do inicio (invencibilidade de 750 ms) - esquiva: 8 golpes, chegaram em media 87 ms depois do inicio (invencibilidade de 217 ms)",
+        "Monstros soltos (fim da quest / troca de cena): fim da quest 2, troca de cena 6",
+        "Mensagem: Trava: comando 63 escapava e agora e travado tambem"
+    ],
+    "salvo_as": "2026-11-15 21:10:34",
+    "versao_mod": "0.82"
+}

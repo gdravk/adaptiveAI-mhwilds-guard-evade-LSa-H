@@ -1,0 +1,11 @@
+- [Versioned mod files](nomear-arquivo-com-versao.md) — each change = new aviso_lanca_vX.Y.lua; game folder read-only; PT-BR no accents
+- [Monster list update](atualizar-lista-monstros.md) — run atualizar_lista.pl only when needed (after fight reports), not every message
+- [Estudo aprendizado de golpes](estudo-aprendizado-golpes.md) — hitbox activateAttack, evHit_Damage etc.; notes in C:/Users/<usuario>/Desktop/IA-INFOaprendizadoGolpes/ESTUDO_CLAUDE.txt (outside project)
+- [So comandos reais / forcar](so-comandos-reais.md) — reads game + commands; forcing defense actions allowed (always on); never cancel hits or give invincibility
+- [Arma guardada e mods testados](regras-arma-guardada-e-mods-testados.md) — sheathed = mod does nothing; tested mods' values win over our measurements
+- [Prioridades LS numeracao](prioridades-ls-numeracao.md) — LS: SS+ISS 1, FS 2, esquiva 3; 0 = M4
+- [Pesquisa na internet permitida](pesquisa-internet-permitida.md) — web search ok when needed; confirm with in-game measurement; user does manual tests on request
+- [Testes automaticos e limpeza](testes-automaticos-e-limpeza.md) — tests run automatically (no toggles); remove them once answered
+- [Autorizacao da pasta do projeto](autorizacao-pasta-do-projeto.md) — full freedom on files in the project folder; game folder stays read-only; no decrypting third-party mods
+- [README so quando pedir](readme-so-quando-pedir.md) — don't update README.txt with new versions unless asked
+- [Mudancas para todos os monstros](mudancas-para-todos-os-monstros.md) — design every change for all monsters, never tune to the last fight's monster

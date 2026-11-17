@@ -1,0 +1,2439 @@
+{
+    "explicacao": "t = ms desde o SS (M5 + Espaco). a = sua animacao (banco:id), q = quadro dela. m = animacao do monstro mais perto, golpe_em_ms = quanto faltava para o proximo golpe previsto. mudou = campos dos botoes que mudaram (comando.campo=valor; buffer = buffer de entrada). apertou = botao apertado neste quadro. ev = eventos.",
+    "monstro": "Chatacabra",
+    "quadros": [
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.7,
+            "m": "2:70",
+            "mudou": [
+                "42._OnTrigger=false",
+                "42._Repeat=false",
+                "42._Success=false",
+                "55._Repeat=false",
+                "50._Repeat=false",
+                "46._OnTrigger=false",
+                "46._Repeat=false",
+                "55._Success=false",
+                "21._OnTrigger=false",
+                "12._Repeat=false",
+                "21._Repeat=false",
+                "55._OnTrigger=false",
+                "12._OnTrigger=false",
+                "50._Success=false",
+                "21._Success=false",
+                "50._OnTrigger=false",
+                "46._Success=false",
+                "12._Success=false"
+            ],
+            "q": 77,
+            "segura": {
+                "espaco": true,
+                "m1": true
+            },
+            "t": -1483
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.7,
+            "m": "2:70",
+            "q": 79,
+            "segura": {
+                "espaco": true,
+                "m1": true
+            },
+            "t": -1458
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.7,
+            "m": "2:70",
+            "q": 1,
+            "segura": {
+                "espaco": true,
+                "m1": true
+            },
+            "t": -1434
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.7,
+            "m": "2:70",
+            "mudou": [
+                "42._AnalogValue=0",
+                "42._RawOn=false",
+                "42._On=false",
+                "42._OffTrigger=true",
+                "21._RawOn=false",
+                "12._AnalogValue=0",
+                "55._On=false",
+                "46._On=false",
+                "50._AnalogValue=0",
+                "55._RawOn=false",
+                "46._AnalogValue=0",
+                "21._On=false",
+                "21._AnalogValue=0",
+                "50._RawOn=false",
+                "50._On=false",
+                "12._On=false",
+                "46._RawOn=false",
+                "12._RawOn=false",
+                "55._AnalogValue=0",
+                "50._OffTrigger=true",
+                "21._OffTrigger=true",
+                "46._OffTrigger=true",
+                "55._OffTrigger=true",
+                "12._OffTrigger=true"
+            ],
+            "q": 2,
+            "t": -1409
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.8,
+            "m": "2:70",
+            "mudou": [
+                "42._OffTrigger=false",
+                "50._OffTrigger=false",
+                "21._OffTrigger=false",
+                "46._OffTrigger=false",
+                "55._OffTrigger=false",
+                "12._OffTrigger=false"
+            ],
+            "q": 4,
+            "t": -1384
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.8,
+            "m": "2:70",
+            "q": 5,
+            "t": -1357
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.8,
+            "m": "2:70",
+            "q": 7,
+            "t": -1328
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.9,
+            "m": "2:70",
+            "q": 9,
+            "t": -1301
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.9,
+            "m": "2:70",
+            "q": 10,
+            "t": -1273
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.9,
+            "m": "2:70",
+            "q": 12,
+            "t": -1245
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.0,
+            "m": "2:70",
+            "q": 14,
+            "t": -1216
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.0,
+            "m": "2:70",
+            "q": 16,
+            "t": -1190
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.0,
+            "m": "2:70",
+            "q": 17,
+            "t": -1166
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.1,
+            "m": "2:70",
+            "q": 19,
+            "t": -1140
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.1,
+            "m": "2:70",
+            "q": 20,
+            "t": -1114
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.1,
+            "m": "2:70",
+            "q": 22,
+            "t": -1089
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.2,
+            "m": "2:70",
+            "q": 23,
+            "t": -1064
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.2,
+            "m": "2:70",
+            "q": 25,
+            "t": -1039
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.2,
+            "m": "2:70",
+            "q": 26,
+            "t": -1015
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.3,
+            "m": "2:70",
+            "q": 28,
+            "t": -990
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.3,
+            "m": "2:70",
+            "q": 29,
+            "t": -965
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.3,
+            "m": "2:70",
+            "q": 31,
+            "t": -941
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.3,
+            "m": "2:70",
+            "q": 32,
+            "t": -918
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 2190,
+            "m": "50:54",
+            "q": 33,
+            "t": -891
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 2164,
+            "m": "50:54",
+            "q": 35,
+            "t": -866
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 2139,
+            "m": "50:54",
+            "q": 37,
+            "t": -840
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.2,
+            "golpe_em_ms": 2114,
+            "m": "50:54",
+            "q": 38,
+            "t": -816
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.2,
+            "golpe_em_ms": 2087,
+            "m": "50:54",
+            "q": 40,
+            "t": -788
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.2,
+            "golpe_em_ms": 2060,
+            "m": "50:54",
+            "q": 41,
+            "t": -762
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 2.0,
+            "golpe_em_ms": 2035,
+            "m": "50:54",
+            "q": 43,
+            "t": -736
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.8,
+            "golpe_em_ms": 2008,
+            "m": "50:54",
+            "q": 44,
+            "t": -710
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.5,
+            "golpe_em_ms": 1981,
+            "m": "50:54",
+            "q": 46,
+            "t": -683
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.3,
+            "golpe_em_ms": 1953,
+            "m": "50:54",
+            "q": 48,
+            "t": -654
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.0,
+            "golpe_em_ms": 1926,
+            "m": "50:54",
+            "q": 49,
+            "t": -628
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.9,
+            "golpe_em_ms": 1899,
+            "m": "50:54",
+            "q": 51,
+            "t": -601
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.9,
+            "golpe_em_ms": 1868,
+            "m": "50:54",
+            "q": 51,
+            "t": -570
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.9,
+            "golpe_em_ms": 1839,
+            "m": "50:54",
+            "q": 52,
+            "t": -540
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.9,
+            "golpe_em_ms": 1810,
+            "m": "50:54",
+            "q": 53,
+            "t": -512
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.9,
+            "golpe_em_ms": 1783,
+            "m": "50:54",
+            "q": 55,
+            "t": -485
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.8,
+            "golpe_em_ms": 1754,
+            "m": "50:54",
+            "q": 57,
+            "t": -456
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.8,
+            "golpe_em_ms": 1722,
+            "m": "50:54",
+            "q": 59,
+            "t": -424
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.8,
+            "golpe_em_ms": 1692,
+            "m": "50:54",
+            "q": 61,
+            "t": -394
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.0,
+            "golpe_em_ms": 1663,
+            "m": "50:54",
+            "q": 63,
+            "t": -364
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.1,
+            "golpe_em_ms": 1622,
+            "m": "50:54",
+            "q": 65,
+            "t": -323
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.2,
+            "golpe_em_ms": 1586,
+            "m": "50:54",
+            "q": 67,
+            "t": -288
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.2,
+            "golpe_em_ms": 1557,
+            "m": "50:54",
+            "q": 69,
+            "t": -259
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.1,
+            "golpe_em_ms": 1526,
+            "m": "50:54",
+            "q": 71,
+            "t": -227
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.9,
+            "golpe_em_ms": 1497,
+            "m": "50:54",
+            "q": 73,
+            "t": -198
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.8,
+            "golpe_em_ms": 1466,
+            "m": "50:54",
+            "q": 75,
+            "t": -168
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.8,
+            "golpe_em_ms": 1441,
+            "m": "50:54",
+            "q": 77,
+            "t": -143
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.8,
+            "golpe_em_ms": 1487,
+            "m": "50:157",
+            "q": 78,
+            "t": -115
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.9,
+            "golpe_em_ms": 1458,
+            "m": "50:157",
+            "q": 80,
+            "t": -86
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 0.9,
+            "golpe_em_ms": 1428,
+            "m": "50:157",
+            "q": 81,
+            "t": -56
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.0,
+            "golpe_em_ms": 1401,
+            "m": "50:157",
+            "q": 83,
+            "t": -29
+        },
+        {
+            "a": "20:201",
+            "apertou": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "arma": true,
+            "dist": 1.0,
+            "golpe_em_ms": 1371,
+            "m": "50:157",
+            "mudou": [
+                "42._OnTrigger=true",
+                "32._Success=true",
+                "42._AnalogValue=1",
+                "24._RawOn=true",
+                "51._Success=true",
+                "32._AnalogValue=1",
+                "24._Repeat=true",
+                "51.buffer._LagTimer=-0.028",
+                "51._AnalogValue=1",
+                "25._Success=true",
+                "51._OnTrigger=true",
+                "24._On=true",
+                "51._RawOn=true",
+                "25._Repeat=true",
+                "32.buffer._LagTimer=-0.028",
+                "24._Success=true",
+                "32._RawOn=true",
+                "51._Repeat=true",
+                "24._OnTrigger=true",
+                "24._AnalogValue=1",
+                "24.buffer._LagTimer=-0.028",
+                "32._Repeat=true",
+                "32._On=true",
+                "42._RawOn=true",
+                "25._On=true",
+                "42._On=true",
+                "51._On=true",
+                "25._AnalogValue=1",
+                "42._Repeat=true",
+                "25.buffer._LagTimer=-0.028",
+                "25._OnTrigger=true",
+                "32._OnTrigger=true",
+                "25._RawOn=true",
+                "42.buffer._LagTimer=-0.028",
+                "42._Success=true",
+                "22._Success=true",
+                "22._AnalogValue=1",
+                "15._OnTrigger=true",
+                "15._AnalogValue=1",
+                "15._Success=true",
+                "22._OnTrigger=true",
+                "22.buffer._LagTimer=-0.028",
+                "15._RawOn=true",
+                "15._Repeat=true",
+                "22._On=true",
+                "15.buffer._LagTimer=-0.028",
+                "22._RawOn=true",
+                "22._Repeat=true",
+                "15._On=true"
+            ],
+            "q": 85,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 0
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.0,
+            "golpe_em_ms": 1344,
+            "m": "50:157",
+            "mudou": [
+                "42._OnTrigger=false",
+                "32._Success=false",
+                "51._Success=false",
+                "24._Repeat=false",
+                "25._Success=false",
+                "51._OnTrigger=false",
+                "25._Repeat=false",
+                "24._Success=false",
+                "51._Repeat=false",
+                "24._OnTrigger=false",
+                "32._Repeat=false",
+                "42._Repeat=false",
+                "25._OnTrigger=false",
+                "32._OnTrigger=false",
+                "42._Success=false",
+                "22._Success=false",
+                "15._OnTrigger=false",
+                "15._Success=false",
+                "22._OnTrigger=false",
+                "15._Repeat=false",
+                "22._Repeat=false"
+            ],
+            "q": 87,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 28
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.1,
+            "golpe_em_ms": 1318,
+            "m": "50:157",
+            "q": 88,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 54
+        },
+        {
+            "a": "20:201",
+            "arma": true,
+            "dist": 1.2,
+            "golpe_em_ms": 1291,
+            "m": "50:157",
+            "q": 90,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 81
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.3,
+            "golpe_em_ms": 1262,
+            "m": "50:157",
+            "q": 1,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 110
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.4,
+            "golpe_em_ms": 1234,
+            "m": "50:157",
+            "q": 3,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 137
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.5,
+            "golpe_em_ms": 1207,
+            "m": "50:157",
+            "q": 5,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 165
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.5,
+            "golpe_em_ms": 1181,
+            "m": "50:157",
+            "q": 6,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 190
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.6,
+            "golpe_em_ms": 1156,
+            "m": "50:157",
+            "q": 8,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 216
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.6,
+            "golpe_em_ms": 1130,
+            "m": "50:157",
+            "q": 9,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 241
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.7,
+            "golpe_em_ms": 1105,
+            "m": "50:157",
+            "q": 11,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 266
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.7,
+            "golpe_em_ms": 1080,
+            "m": "50:157",
+            "q": 12,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 292
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.7,
+            "golpe_em_ms": 1055,
+            "m": "50:157",
+            "q": 14,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 317
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.7,
+            "golpe_em_ms": 1030,
+            "m": "50:157",
+            "q": 15,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 342
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.7,
+            "golpe_em_ms": 1004,
+            "m": "50:157",
+            "q": 17,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 368
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.7,
+            "golpe_em_ms": 979,
+            "m": "50:157",
+            "q": 18,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 393
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.8,
+            "golpe_em_ms": 953,
+            "m": "50:157",
+            "q": 20,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 418
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.8,
+            "golpe_em_ms": 927,
+            "m": "50:157",
+            "q": 21,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 444
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.8,
+            "golpe_em_ms": 902,
+            "m": "50:157",
+            "q": 23,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 470
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.9,
+            "golpe_em_ms": 877,
+            "m": "50:157",
+            "q": 24,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 495
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.9,
+            "golpe_em_ms": 851,
+            "m": "50:157",
+            "mudou": [
+                "24._Repeat=true",
+                "25._Repeat=true",
+                "51._Repeat=true",
+                "32._Repeat=true",
+                "42._Repeat=true",
+                "15._Repeat=true",
+                "22._Repeat=true"
+            ],
+            "q": 26,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 520
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 1.9,
+            "golpe_em_ms": 827,
+            "m": "50:157",
+            "mudou": [
+                "24._Repeat=false",
+                "25._Repeat=false",
+                "51._Repeat=false",
+                "32._Repeat=false",
+                "42._Repeat=false",
+                "15._Repeat=false",
+                "22._Repeat=false"
+            ],
+            "q": 27,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 545
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.0,
+            "golpe_em_ms": 801,
+            "m": "50:157",
+            "q": 29,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 570
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.0,
+            "golpe_em_ms": 776,
+            "m": "50:157",
+            "q": 30,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 596
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.0,
+            "golpe_em_ms": 750,
+            "m": "50:157",
+            "mudou": [
+                "24._Repeat=true",
+                "25._Repeat=true",
+                "51._Repeat=true",
+                "32._Repeat=true",
+                "42._Repeat=true",
+                "15._Repeat=true",
+                "22._Repeat=true"
+            ],
+            "q": 32,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 621
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.1,
+            "golpe_em_ms": 722,
+            "m": "50:157",
+            "mudou": [
+                "24._Repeat=false",
+                "25._Repeat=false",
+                "51._Repeat=false",
+                "32._Repeat=false",
+                "42._Repeat=false",
+                "15._Repeat=false",
+                "22._Repeat=false"
+            ],
+            "q": 34,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 649
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.1,
+            "golpe_em_ms": 694,
+            "m": "50:157",
+            "q": 35,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 677
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.1,
+            "golpe_em_ms": 665,
+            "m": "50:157",
+            "q": 37,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 706
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.1,
+            "golpe_em_ms": 635,
+            "m": "50:157",
+            "mudou": [
+                "24._Repeat=true",
+                "25._Repeat=true",
+                "51._Repeat=true",
+                "32._Repeat=true",
+                "42._Repeat=true",
+                "15._Repeat=true",
+                "22._Repeat=true"
+            ],
+            "q": 39,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 736
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.2,
+            "golpe_em_ms": 607,
+            "m": "50:157",
+            "mudou": [
+                "24._Repeat=false",
+                "25._Repeat=false",
+                "51._Repeat=false",
+                "32._Repeat=false",
+                "42._Repeat=false",
+                "15._Repeat=false",
+                "22._Repeat=false"
+            ],
+            "q": 40,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 764
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.2,
+            "golpe_em_ms": 579,
+            "m": "50:157",
+            "q": 42,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 792
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.2,
+            "golpe_em_ms": 548,
+            "m": "50:157",
+            "q": 44,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 824
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.2,
+            "golpe_em_ms": 519,
+            "m": "50:157",
+            "mudou": [
+                "24._Repeat=true",
+                "25._Repeat=true",
+                "51._Repeat=true",
+                "32._Repeat=true",
+                "42._Repeat=true",
+                "15._Repeat=true",
+                "22._Repeat=true"
+            ],
+            "q": 46,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 853
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 490,
+            "m": "50:157",
+            "mudou": [
+                "24._Repeat=false",
+                "25._Repeat=false",
+                "51._Repeat=false",
+                "32._Repeat=false",
+                "42._Repeat=false",
+                "15._Repeat=false",
+                "22._Repeat=false"
+            ],
+            "q": 47,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 881
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 460,
+            "m": "50:157",
+            "q": 49,
+            "segura": {
+                "espaco": true,
+                "m2_m5": true
+            },
+            "t": 912
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 427,
+            "m": "50:157",
+            "mudou": [
+                "22._AnalogValue=0",
+                "15._AnalogValue=0",
+                "15._RawOn=false",
+                "22._On=false",
+                "22._RawOn=false",
+                "15._On=false",
+                "15._OffTrigger=true",
+                "22._OffTrigger=true"
+            ],
+            "q": 51,
+            "segura": {
+                "espaco": true
+            },
+            "t": 945
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 393,
+            "m": "50:157",
+            "mudou": [
+                "42._AnalogValue=0",
+                "24._RawOn=false",
+                "32._AnalogValue=0",
+                "51._AnalogValue=0",
+                "24._On=false",
+                "51._RawOn=false",
+                "32._RawOn=false",
+                "24._AnalogValue=0",
+                "32._On=false",
+                "42._RawOn=false",
+                "25._On=false",
+                "42._On=false",
+                "51._On=false",
+                "25._AnalogValue=0",
+                "25._RawOn=false",
+                "25._OffTrigger=true",
+                "51._OffTrigger=true",
+                "32._OffTrigger=true",
+                "24._OffTrigger=true",
+                "42._OffTrigger=true",
+                "15._OffTrigger=false",
+                "22._OffTrigger=false"
+            ],
+            "q": 53,
+            "t": 978
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 361,
+            "m": "50:157",
+            "mudou": [
+                "25._OffTrigger=false",
+                "51._OffTrigger=false",
+                "32._OffTrigger=false",
+                "24._OffTrigger=false",
+                "42._OffTrigger=false"
+            ],
+            "q": 55,
+            "t": 1010
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 327,
+            "m": "50:157",
+            "q": 57,
+            "t": 1045
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 296,
+            "m": "50:157",
+            "q": 59,
+            "t": 1075
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 270,
+            "m": "50:157",
+            "q": 61,
+            "t": 1102
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.3,
+            "golpe_em_ms": 241,
+            "m": "50:157",
+            "q": 62,
+            "t": 1130
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.4,
+            "golpe_em_ms": 82,
+            "m": "2:24",
+            "q": 64,
+            "t": 1164
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.6,
+            "golpe_em_ms": 50,
+            "m": "2:24",
+            "q": 66,
+            "t": 1196
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.8,
+            "golpe_em_ms": 24,
+            "m": "2:24",
+            "q": 68,
+            "t": 1222
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 2.9,
+            "golpe_em_ms": -4,
+            "m": "2:24",
+            "q": 70,
+            "t": 1250
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 3.0,
+            "golpe_em_ms": -35,
+            "m": "2:24",
+            "q": 71,
+            "t": 1281
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 3.1,
+            "golpe_em_ms": -63,
+            "m": "2:24",
+            "q": 73,
+            "t": 1309
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 3.2,
+            "golpe_em_ms": -89,
+            "m": "2:24",
+            "q": 75,
+            "t": 1335
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 3.3,
+            "golpe_em_ms": -119,
+            "m": "2:24",
+            "q": 76,
+            "t": 1365
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 3.4,
+            "golpe_em_ms": -151,
+            "m": "2:24",
+            "q": 78,
+            "t": 1397
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": -183,
+            "m": "2:24",
+            "q": 80,
+            "t": 1429
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 3.8,
+            "golpe_em_ms": -217,
+            "m": "2:24",
+            "q": 82,
+            "t": 1463
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 3.9,
+            "golpe_em_ms": -247,
+            "m": "2:24",
+            "q": 84,
+            "t": 1493
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 3.9,
+            "golpe_em_ms": 1901,
+            "m": "2:24",
+            "q": 86,
+            "t": 1520
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 4.0,
+            "golpe_em_ms": 1873,
+            "m": "2:24",
+            "q": 87,
+            "t": 1548
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 4.0,
+            "golpe_em_ms": 1844,
+            "m": "2:24",
+            "q": 89,
+            "t": 1577
+        },
+        {
+            "a": "20:249",
+            "arma": true,
+            "dist": 4.0,
+            "golpe_em_ms": 1813,
+            "m": "2:24",
+            "q": 91,
+            "t": 1609
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.9,
+            "golpe_em_ms": 1780,
+            "m": "2:24",
+            "q": 1,
+            "t": 1641
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.8,
+            "golpe_em_ms": 1753,
+            "m": "2:24",
+            "q": 3,
+            "t": 1668
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.8,
+            "golpe_em_ms": 1726,
+            "m": "2:24",
+            "q": 5,
+            "t": 1695
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.7,
+            "golpe_em_ms": 1692,
+            "m": "2:24",
+            "q": 7,
+            "t": 1729
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": 1660,
+            "m": "2:24",
+            "q": 9,
+            "t": 1761
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1632,
+            "m": "2:24",
+            "q": 10,
+            "t": 1789
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1605,
+            "m": "2:24",
+            "q": 12,
+            "t": 1816
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1577,
+            "m": "2:24",
+            "q": 14,
+            "t": 1844
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1897,
+            "m": "50:173",
+            "q": 15,
+            "t": 1873
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1863,
+            "m": "50:173",
+            "q": 17,
+            "t": 1907
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1831,
+            "m": "50:173",
+            "q": 19,
+            "t": 1939
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1800,
+            "m": "50:173",
+            "q": 21,
+            "t": 1970
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": 1764,
+            "m": "50:173",
+            "q": 23,
+            "t": 2006
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": 1736,
+            "m": "50:173",
+            "q": 25,
+            "t": 2034
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": 1710,
+            "m": "50:173",
+            "q": 27,
+            "t": 2060
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": 1683,
+            "m": "50:173",
+            "q": 28,
+            "t": 2087
+        },
+        {
+            "a": "20:248",
+            "apertou": {
+                "espaco": true,
+                "m1": true
+            },
+            "arma": true,
+            "dist": 3.7,
+            "golpe_em_ms": 1657,
+            "m": "50:173",
+            "mudou": [
+                "42._OnTrigger=true",
+                "42._AnalogValue=1",
+                "42._RawOn=true",
+                "42._On=true",
+                "42._Repeat=true",
+                "42.buffer._LagTimer=-0.027",
+                "42._Success=true",
+                "55._Repeat=true",
+                "50._Repeat=true",
+                "21._RawOn=true",
+                "12._AnalogValue=1",
+                "46._OnTrigger=true",
+                "55._On=true",
+                "21.buffer._LagTimer=-0.027",
+                "46._On=true",
+                "46._Repeat=true",
+                "12.buffer._LagTimer=-0.027",
+                "50._AnalogValue=1",
+                "55._Success=true",
+                "21._OnTrigger=true",
+                "55._RawOn=true",
+                "46._AnalogValue=1",
+                "12._Repeat=true",
+                "21._On=true",
+                "21._AnalogValue=1",
+                "46.buffer._LagTimer=-0.027",
+                "21._Repeat=true",
+                "55._OnTrigger=true",
+                "50._RawOn=true",
+                "12._OnTrigger=true",
+                "50._Success=true",
+                "50._On=true",
+                "21._Success=true",
+                "12._On=true",
+                "46._RawOn=true",
+                "12._RawOn=true",
+                "55._AnalogValue=1",
+                "50._OnTrigger=true",
+                "46._Success=true",
+                "12._Success=true",
+                "50.buffer._LagTimer=-0.027",
+                "55.buffer._LagTimer=-0.027"
+            ],
+            "q": 30,
+            "segura": {
+                "espaco": true,
+                "m1": true
+            },
+            "t": 2113
+        },
+        {
+            "a": "20:248",
+            "arma": true,
+            "dist": 3.7,
+            "golpe_em_ms": 1630,
+            "m": "50:173",
+            "mudou": [
+                "42._OnTrigger=false",
+                "42._Repeat=false",
+                "42._Success=false",
+                "55._Repeat=false",
+                "50._Repeat=false",
+                "46._OnTrigger=false",
+                "46._Repeat=false",
+                "55._Success=false",
+                "21._OnTrigger=false",
+                "12._Repeat=false",
+                "21._Repeat=false",
+                "55._OnTrigger=false",
+                "12._OnTrigger=false",
+                "50._Success=false",
+                "21._Success=false",
+                "50._OnTrigger=false",
+                "46._Success=false",
+                "12._Success=false"
+            ],
+            "q": 32,
+            "segura": {
+                "espaco": true,
+                "m1": true
+            },
+            "t": 2140
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.7,
+            "golpe_em_ms": 1603,
+            "m": "50:173",
+            "q": 1,
+            "segura": {
+                "espaco": true,
+                "m1": true
+            },
+            "t": 2167
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.7,
+            "golpe_em_ms": 1574,
+            "m": "50:173",
+            "q": 3,
+            "segura": {
+                "espaco": true,
+                "m1": true
+            },
+            "t": 2195
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": 1549,
+            "m": "50:173",
+            "q": 4,
+            "segura": {
+                "espaco": true,
+                "m1": true
+            },
+            "t": 2221
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": 1523,
+            "m": "50:173",
+            "q": 6,
+            "segura": {
+                "espaco": true,
+                "m1": true
+            },
+            "t": 2247
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1498,
+            "m": "50:173",
+            "mudou": [
+                "42._AnalogValue=0",
+                "42._RawOn=false",
+                "42._On=false",
+                "42._OffTrigger=true",
+                "21._RawOn=false",
+                "12._AnalogValue=0",
+                "55._On=false",
+                "46._On=false",
+                "50._AnalogValue=0",
+                "55._RawOn=false",
+                "46._AnalogValue=0",
+                "21._On=false",
+                "21._AnalogValue=0",
+                "50._RawOn=false",
+                "50._On=false",
+                "12._On=false",
+                "46._RawOn=false",
+                "12._RawOn=false",
+                "55._AnalogValue=0",
+                "50._OffTrigger=true",
+                "21._OffTrigger=true",
+                "46._OffTrigger=true",
+                "55._OffTrigger=true",
+                "12._OffTrigger=true"
+            ],
+            "q": 7,
+            "t": 2272
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1470,
+            "m": "50:173",
+            "mudou": [
+                "42._OffTrigger=false",
+                "50._OffTrigger=false",
+                "21._OffTrigger=false",
+                "46._OffTrigger=false",
+                "55._OffTrigger=false",
+                "12._OffTrigger=false"
+            ],
+            "q": 9,
+            "t": 2300
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1442,
+            "m": "50:173",
+            "q": 11,
+            "t": 2328
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.5,
+            "golpe_em_ms": 1415,
+            "m": "50:173",
+            "q": 12,
+            "t": 2355
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.5,
+            "ev": [
+                "IsIaiSlashHitted=true"
+            ],
+            "golpe_em_ms": 1388,
+            "m": "50:173",
+            "q": 13,
+            "t": 2381
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": 1363,
+            "m": "50:173",
+            "q": 14,
+            "t": 2407
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": 1336,
+            "m": "50:173",
+            "q": 15,
+            "t": 2434
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.6,
+            "golpe_em_ms": 1311,
+            "m": "50:173",
+            "q": 16,
+            "t": 2459
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.7,
+            "golpe_em_ms": 1285,
+            "m": "50:173",
+            "q": 17,
+            "t": 2484
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.8,
+            "golpe_em_ms": 1258,
+            "m": "50:173",
+            "q": 19,
+            "t": 2512
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.9,
+            "golpe_em_ms": 1232,
+            "m": "50:173",
+            "q": 20,
+            "t": 2538
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 4.0,
+            "golpe_em_ms": 1204,
+            "m": "50:173",
+            "q": 22,
+            "t": 2566
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 4.1,
+            "golpe_em_ms": 1176,
+            "m": "50:173",
+            "q": 23,
+            "t": 2594
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 4.2,
+            "golpe_em_ms": 1149,
+            "m": "50:173",
+            "q": 25,
+            "t": 2621
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 4.2,
+            "golpe_em_ms": 1121,
+            "m": "50:173",
+            "q": 27,
+            "t": 2649
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 4.2,
+            "golpe_em_ms": 1092,
+            "m": "50:173",
+            "q": 28,
+            "t": 2678
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 4.2,
+            "golpe_em_ms": 1065,
+            "m": "50:173",
+            "q": 30,
+            "t": 2705
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 4.1,
+            "golpe_em_ms": 1039,
+            "m": "50:173",
+            "q": 32,
+            "t": 2731
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.9,
+            "golpe_em_ms": 1014,
+            "m": "50:173",
+            "q": 33,
+            "t": 2756
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.7,
+            "golpe_em_ms": 987,
+            "m": "50:173",
+            "q": 35,
+            "t": 2783
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.4,
+            "golpe_em_ms": 961,
+            "m": "50:173",
+            "q": 36,
+            "t": 2809
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.3,
+            "golpe_em_ms": 936,
+            "m": "50:173",
+            "q": 37,
+            "t": 2834
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.1,
+            "golpe_em_ms": 910,
+            "m": "50:173",
+            "q": 37,
+            "t": 2859
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.9,
+            "golpe_em_ms": 885,
+            "m": "50:173",
+            "q": 38,
+            "t": 2885
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.7,
+            "golpe_em_ms": 856,
+            "m": "50:173",
+            "q": 40,
+            "t": 2914
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.6,
+            "golpe_em_ms": 827,
+            "m": "50:173",
+            "q": 41,
+            "t": 2943
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.5,
+            "golpe_em_ms": 797,
+            "m": "50:173",
+            "q": 43,
+            "t": 2972
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.4,
+            "golpe_em_ms": 767,
+            "m": "50:173",
+            "q": 44,
+            "t": 3003
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.4,
+            "golpe_em_ms": 739,
+            "m": "50:173",
+            "q": 46,
+            "t": 3031
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.5,
+            "golpe_em_ms": 708,
+            "m": "50:173",
+            "q": 48,
+            "t": 3062
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.5,
+            "golpe_em_ms": 674,
+            "m": "50:173",
+            "q": 50,
+            "t": 3096
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.5,
+            "golpe_em_ms": 645,
+            "m": "50:173",
+            "q": 52,
+            "t": 3125
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.5,
+            "golpe_em_ms": 615,
+            "m": "50:173",
+            "q": 53,
+            "t": 3155
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.5,
+            "golpe_em_ms": 588,
+            "m": "50:173",
+            "q": 55,
+            "t": 3182
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.6,
+            "golpe_em_ms": 562,
+            "m": "50:173",
+            "q": 57,
+            "t": 3207
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.6,
+            "golpe_em_ms": 532,
+            "m": "50:173",
+            "q": 58,
+            "t": 3238
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.7,
+            "golpe_em_ms": 501,
+            "m": "50:173",
+            "q": 60,
+            "t": 3269
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.7,
+            "golpe_em_ms": 473,
+            "m": "50:173",
+            "q": 62,
+            "t": 3297
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.7,
+            "golpe_em_ms": 445,
+            "m": "50:173",
+            "q": 64,
+            "t": 3325
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.8,
+            "golpe_em_ms": 419,
+            "m": "50:173",
+            "q": 66,
+            "t": 3351
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.8,
+            "golpe_em_ms": 393,
+            "m": "50:173",
+            "q": 67,
+            "t": 3377
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.8,
+            "golpe_em_ms": 366,
+            "m": "50:173",
+            "q": 69,
+            "t": 3404
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.9,
+            "golpe_em_ms": 339,
+            "m": "50:173",
+            "q": 70,
+            "t": 3431
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.9,
+            "golpe_em_ms": 313,
+            "m": "50:173",
+            "q": 72,
+            "t": 3457
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.9,
+            "golpe_em_ms": 288,
+            "m": "50:173",
+            "q": 73,
+            "t": 3482
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 2.9,
+            "golpe_em_ms": 262,
+            "m": "50:173",
+            "q": 75,
+            "t": 3508
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.0,
+            "golpe_em_ms": 236,
+            "m": "50:173",
+            "q": 76,
+            "t": 3534
+        },
+        {
+            "a": "20:251",
+            "apertou": {
+                "espaco": true
+            },
+            "arma": true,
+            "dist": 3.0,
+            "golpe_em_ms": 209,
+            "m": "50:173",
+            "mudou": [
+                "42._OnTrigger=true",
+                "32._Success=true",
+                "42._AnalogValue=1",
+                "24._RawOn=true",
+                "51._Success=true",
+                "32._AnalogValue=1",
+                "24._Repeat=true",
+                "51.buffer._LagTimer=-0.027",
+                "51._AnalogValue=1",
+                "25._Success=true",
+                "51._OnTrigger=true",
+                "24._On=true",
+                "51._RawOn=true",
+                "25._Repeat=true",
+                "32.buffer._LagTimer=-0.027",
+                "24._Success=true",
+                "32._RawOn=true",
+                "51._Repeat=true",
+                "24._OnTrigger=true",
+                "24._AnalogValue=1",
+                "24.buffer._LagTimer=-0.027",
+                "32._Repeat=true",
+                "32._On=true",
+                "42._RawOn=true",
+                "25._On=true",
+                "42._On=true",
+                "51._On=true",
+                "25._AnalogValue=1",
+                "42._Repeat=true",
+                "25.buffer._LagTimer=-0.027",
+                "25._OnTrigger=true",
+                "32._OnTrigger=true",
+                "25._RawOn=true",
+                "42._Success=true"
+            ],
+            "q": 78,
+            "segura": {
+                "espaco": true
+            },
+            "t": 3560
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.0,
+            "golpe_em_ms": 181,
+            "m": "50:173",
+            "mudou": [
+                "42._OnTrigger=false",
+                "32._Success=false",
+                "51._Success=false",
+                "24._Repeat=false",
+                "25._Success=false",
+                "51._OnTrigger=false",
+                "25._Repeat=false",
+                "24._Success=false",
+                "51._Repeat=false",
+                "24._OnTrigger=false",
+                "32._Repeat=false",
+                "42._Repeat=false",
+                "25._OnTrigger=false",
+                "32._OnTrigger=false",
+                "42._Success=false"
+            ],
+            "q": 80,
+            "segura": {
+                "espaco": true
+            },
+            "t": 3589
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.1,
+            "golpe_em_ms": 154,
+            "m": "50:173",
+            "q": 81,
+            "segura": {
+                "espaco": true
+            },
+            "t": 3616
+        },
+        {
+            "a": "20:251",
+            "arma": true,
+            "dist": 3.1,
+            "golpe_em_ms": 127,
+            "m": "50:173",
+            "q": 83,
+            "segura": {
+                "espaco": true
+            },
+            "t": 3642
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 3.4,
+            "ev": [
+                "IsIaiSlashHitted=false"
+            ],
+            "golpe_em_ms": 143,
+            "m": "50:175",
+            "q": 1,
+            "segura": {
+                "espaco": true
+            },
+            "t": 3667
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 3.7,
+            "golpe_em_ms": 117,
+            "m": "50:175",
+            "q": 2,
+            "segura": {
+                "espaco": true
+            },
+            "t": 3692
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 4.1,
+            "golpe_em_ms": 93,
+            "m": "50:175",
+            "mudou": [
+                "42._AnalogValue=0",
+                "24._RawOn=false",
+                "32._AnalogValue=0",
+                "51._AnalogValue=0",
+                "24._On=false",
+                "51._RawOn=false",
+                "32._RawOn=false",
+                "24._AnalogValue=0",
+                "32._On=false",
+                "42._RawOn=false",
+                "25._On=false",
+                "42._On=false",
+                "51._On=false",
+                "25._AnalogValue=0",
+                "25._RawOn=false",
+                "25._OffTrigger=true",
+                "51._OffTrigger=true",
+                "32._OffTrigger=true",
+                "24._OffTrigger=true",
+                "42._OffTrigger=true"
+            ],
+            "q": 4,
+            "t": 3717
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 4.5,
+            "golpe_em_ms": 67,
+            "m": "50:175",
+            "mudou": [
+                "25._OffTrigger=false",
+                "51._OffTrigger=false",
+                "32._OffTrigger=false",
+                "24._OffTrigger=false",
+                "42._OffTrigger=false"
+            ],
+            "q": 5,
+            "t": 3743
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 4.9,
+            "golpe_em_ms": 43,
+            "m": "50:175",
+            "q": 7,
+            "t": 3767
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 5.3,
+            "golpe_em_ms": 17,
+            "m": "50:175",
+            "q": 9,
+            "t": 3793
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 5.7,
+            "golpe_em_ms": -8,
+            "m": "50:175",
+            "q": 10,
+            "t": 3817
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 6.1,
+            "golpe_em_ms": -34,
+            "m": "50:175",
+            "q": 12,
+            "t": 3844
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 6.5,
+            "golpe_em_ms": -60,
+            "m": "50:175",
+            "q": 13,
+            "t": 3870
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 6.9,
+            "golpe_em_ms": -85,
+            "m": "50:175",
+            "q": 15,
+            "t": 3895
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 7.3,
+            "golpe_em_ms": -114,
+            "m": "50:175",
+            "q": 16,
+            "t": 3923
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 7.7,
+            "golpe_em_ms": -142,
+            "m": "50:175",
+            "q": 18,
+            "t": 3952
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 8.1,
+            "golpe_em_ms": -171,
+            "m": "50:175",
+            "q": 20,
+            "t": 3980
+        },
+        {
+            "a": "20:61",
+            "arma": true,
+            "dist": 8.3,
+            "golpe_em_ms": -199,
+            "m": "50:175",
+            "q": 21,
+            "t": 4008
+        }
+    ],
+    "resumo": {
+        "apertos": [
+            "0 ms: espaco",
+            "0 ms: m2_m5",
+            "2113 ms: espaco",
+            "2113 ms: m1",
+            "3560 ms: espaco"
+        ],
+        "eventos": [
+            "2381 ms: IsIaiSlashHitted=true",
+            "3667 ms: IsIaiSlashHitted=false"
+        ],
+        "monstro_animacoes": [
+            "-1483 ms: 2:70 (proximo golpe previsto em nil ms)",
+            "-891 ms: 50:54 (proximo golpe previsto em 2190 ms)",
+            "-115 ms: 50:157 (proximo golpe previsto em 1487 ms)",
+            "1164 ms: 2:24 (proximo golpe previsto em 82 ms)",
+            "1873 ms: 50:173 (proximo golpe previsto em 1897 ms)",
+            "3667 ms: 50:175 (proximo golpe previsto em 143 ms)"
+        ],
+        "suas_animacoes": [
+            "-1483 ms: 20:201",
+            "110 ms: 20:249",
+            "1641 ms: 20:248",
+            "2167 ms: 20:251",
+            "3667 ms: 20:61"
+        ]
+    },
+    "ss_em_ms": 0,
+    "versao_mod": "0.55"
+}

@@ -1,0 +1,37 @@
+
+# LS: FS vira esquiva abaixo do vermelho; nada de FS repetido no meio do FS
+troca(q|					p.defesa = p.nivel and perfil.niveis[p.nivel] or nil;|, q|					p.defesa = p.nivel and perfil.niveis[p.nivel] or nil;
+					if perfil == PERFIS.espada_longa and p.defesa == "foresight" then
+						if ANIM_FS[combo.animacao or "?"] then
+							-- (0.68) GOLPES MULTIPLOS: o FS ja esta saindo (outro golpe da sequencia);
+							-- apertar outro FS nao faz nada - o mod espera
+							p.defesa = nil;
+							estado.ultima_decisao = "golpe seguido: FS ja em andamento";
+						elseif op.ls_sem_fs_abaixo_vermelho and not barra_vermelha() then
+							--[[
+								(0.68) Voce notou: o FS mantem o nivel do Spirit Gauge mas ZERA o
+								carregamento para o proximo, e voce ficou no amarelo a luta toda. Abaixo
+								do vermelho: SS+ISS (sobe a barra) e, sem tempo para ele, ESQUIVA.
+								No vermelho o FS volta a ser o 1.
+							]]
+							p.defesa, p.sem_combo = "esquiva", true;
+							estado.ultima_decisao = "abaixo do vermelho: esquiva no lugar do FS";
+						end
+					end|, "fs_vermelho");
+
+# durante o ISS o mod nao aperta nada
+troca(q|		-- (0.60) agora segue: fora da janela do SS sai a esquiva normal; dentro dela, nada de FS|,
+q|		-- (0.60) agora segue: fora da janela do SS sai a esquiva normal; dentro dela, nada de FS
+		-- (0.68) GOLPES MULTIPLOS: durante o ISS (muita invencibilidade, corre para frente) o mod nao
+		-- aperta mais nada - antes ele tentava FS / esquiva nos golpes seguintes e atrapalhava
+		if ANIM_ISS[combo.animacao or "?"] then
+			estado.ultima_decisao = "ISS em andamento: espera";
+			return;
+		end|, "iss_espera");
+
+# menu
+troca(q|			alterado, op.usar_ss_iss = imgui.checkbox("Usar SS+ISS (barra abaixo do vermelho: prioridade 1)", op.usar_ss_iss);
+			mudou_arma = mudou_arma or alterado;|, q|			alterado, op.usar_ss_iss = imgui.checkbox("Usar SS+ISS (barra abaixo do vermelho: prioridade 1)", op.usar_ss_iss);
+			mudou_arma = mudou_arma or alterado;
+			alterado, op.ls_sem_fs_abaixo_vermelho = imgui.checkbox("Abaixo do vermelho: esquiva no lugar do FS (o FS zera o carregamento da barra)", op.ls_sem_fs_abaixo_vermelho);
+			mudou_arma = mudou_arma or alterado;|, "menu");

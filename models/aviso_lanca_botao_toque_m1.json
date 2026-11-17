@@ -1,0 +1,29 @@
+{
+    "achados": [
+        "Entrada._MkbPlayerInput[0]._Keys[12].<LagWorker>k__BackingField[0]._LagFrameCounter : 0 -> -1",
+        "Entrada._MkbPlayerInput[0]._Keys[12].<LagWorker>k__BackingField[0]._LagTimer : 0.0 -> -0.062906198203564",
+        "Entrada._MkbPlayerInput[0]._Keys[12]._LastRawTriggerIndex : -1 -> 0",
+        "Entrada._MkbPlayerInput[0]._Keys[21].<LagWorker>k__BackingField[0]._LagFrameCounter : 0 -> -1",
+        "Entrada._MkbPlayerInput[0]._Keys[21].<LagWorker>k__BackingField[0]._LagTimer : 0.0 -> -0.062906198203564",
+        "Entrada._MkbPlayerInput[0]._Keys[21]._LastRawTriggerIndex : -1 -> 0",
+        "Entrada._MkbPlayerInput[0]._Keys[42].<LagWorker>k__BackingField[0]._LagFrameCounter : 0 -> -1",
+        "Entrada._MkbPlayerInput[0]._Keys[42].<LagWorker>k__BackingField[0]._LagTimer : 0.0 -> -0.062906198203564",
+        "Entrada._MkbPlayerInput[0]._Keys[42]._LastRawTriggerIndex : -1 -> 0",
+        "Entrada._MkbPlayerInput[0]._Keys[46].<LagWorker>k__BackingField[0]._LagFrameCounter : 0 -> -1",
+        "Entrada._MkbPlayerInput[0]._Keys[46].<LagWorker>k__BackingField[0]._LagTimer : 0.0 -> -0.062906198203564",
+        "Entrada._MkbPlayerInput[0]._Keys[46]._LastRawTriggerIndex : -1 -> 0",
+        "Entrada._MkbPlayerInput[0]._Keys[50].<LagWorker>k__BackingField[0]._LagFrameCounter : 0 -> -1",
+        "Entrada._MkbPlayerInput[0]._Keys[50].<LagWorker>k__BackingField[0]._LagTimer : 0.0 -> -0.062906198203564",
+        "Entrada._MkbPlayerInput[0]._Keys[50]._LastRawTriggerIndex : -1 -> 0",
+        "Entrada._MkbPlayerInput[0]._Keys[55]._LastRawTriggerIndex : -1 -> 0"
+    ],
+    "comandos": [
+        12,
+        21,
+        42,
+        46,
+        50,
+        55
+    ],
+    "valores_por_foto": 4016
+}

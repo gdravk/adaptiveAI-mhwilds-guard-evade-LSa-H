@@ -1,0 +1,415 @@
+{
+    "aprendidos_com_outros": 4,
+    "defesas": [
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:201",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:4:7",
+            "hora": "16:20:00",
+            "ms_antes": 2980,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:252",
+            "animacao_depois": "20:252",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:2:24",
+            "hora": "16:20:03",
+            "ms_antes": 1703,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "20:252",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:50:17",
+            "hora": "16:20:03",
+            "ms_antes": 2333,
+            "resultado": "cancelado por voce (M1)"
+        },
+        {
+            "animacao_antes": "20:210",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:2:86",
+            "hora": "16:20:07",
+            "ms_antes": 2987,
+            "resultado": "sem golpe: cancelou com M1"
+        },
+        {
+            "animacao_antes": "20:201",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:2:54",
+            "hora": "16:20:13",
+            "ms_antes": 2169,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:213",
+            "animacao_depois": "20:213",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:50:22",
+            "hora": "16:20:21",
+            "ms_antes": 2956,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:265",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:3:5",
+            "hora": "16:20:26",
+            "ms_antes": 2980,
+            "resultado": "sem golpe: cancelou com M1"
+        },
+        {
+            "animacao_antes": "20:198",
+            "animacao_depois": "20:198",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:2:54",
+            "hora": "16:20:31",
+            "ms_antes": 2121,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:292",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:50:173",
+            "hora": "16:20:38",
+            "ms_antes": 1901,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:230",
+            "animacao_depois": "20:230",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:50:22",
+            "hora": "16:20:49",
+            "ms_antes": 2995,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:19:50:169",
+            "hora": "16:20:59",
+            "ms_antes": 128,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:61",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:19:50:169",
+            "hora": "16:21:00",
+            "ms_antes": 144,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:19:2:54",
+            "hora": "16:21:02",
+            "ms_antes": 147,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:61",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:19:50:150",
+            "hora": "16:21:03",
+            "ms_antes": 133,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:61",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:19:2:6",
+            "hora": "16:21:03",
+            "ms_antes": 148,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:19:50:173",
+            "hora": "16:21:09",
+            "ms_antes": 143,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:19:50:21",
+            "hora": "16:21:13",
+            "ms_antes": 126,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:199",
+            "animacao_depois": "20:199",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:50:53",
+            "hora": "16:21:19",
+            "ms_antes": 1900,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "20:199",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:2:24",
+            "hora": "16:21:21",
+            "ms_antes": 2111,
+            "resultado": "sem golpe: cancelou com M1"
+        },
+        {
+            "animacao_antes": "20:251",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:2:89",
+            "hora": "16:21:24",
+            "ms_antes": 2107,
+            "resultado": "SS nao saiu (saiu esquiva)"
+        },
+        {
+            "animacao_antes": "20:436",
+            "animacao_depois": "20:61",
+            "arma": "espada_longa",
+            "defesa": "esquiva",
+            "golpe": "espada_longa:19:50:187",
+            "hora": "16:21:30",
+            "ms_antes": 140,
+            "resultado": "..."
+        },
+        {
+            "animacao_antes": "20:199",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:50:173",
+            "hora": "16:21:35",
+            "ms_antes": 1901,
+            "resultado": "OK (contra-ataque do ISS)"
+        },
+        {
+            "animacao_antes": "20:199",
+            "animacao_depois": "20:199",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:50:18",
+            "hora": "16:22:02",
+            "ms_antes": 1763,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "20:199",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:50:156",
+            "hora": "16:22:03",
+            "ms_antes": 2558,
+            "resultado": "sem golpe: cancelou com M1"
+        },
+        {
+            "animacao_antes": "20:208",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:2:24",
+            "hora": "16:22:08",
+            "ms_antes": 2100,
+            "resultado": "sem golpe: cancelou com M1"
+        },
+        {
+            "animacao_antes": "20:211",
+            "animacao_depois": "20:211",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:2:87",
+            "hora": "16:22:11",
+            "ms_antes": 2987,
+            "resultado": "sem golpe: cancelou com M1"
+        },
+        {
+            "animacao_antes": "20:251",
+            "animacao_depois": "20:251",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:50:18",
+            "hora": "16:22:15",
+            "ms_antes": 2278,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "20:212",
+            "animacao_depois": "20:212",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:3:5",
+            "hora": "16:22:22",
+            "ms_antes": 2996,
+            "resultado": "sem golpe: cancelou com M1"
+        },
+        {
+            "animacao_antes": "20:195",
+            "animacao_depois": "20:195",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:2:54",
+            "hora": "16:22:32",
+            "ms_antes": 2173,
+            "resultado": "SS nao saiu"
+        },
+        {
+            "animacao_antes": "20:195",
+            "animacao_depois": "20:249",
+            "arma": "espada_longa",
+            "defesa": "ss_iss",
+            "golpe": "espada_longa:19:50:21",
+            "hora": "16:22:33",
+            "ms_antes": 2663,
+            "resultado": "sem golpe: cancelou com M1"
+        }
+    ],
+    "monstros": [
+        {
+            "animacoes": 2,
+            "cobertura": 0,
+            "id": "23",
+            "medicoes": 2,
+            "nome": "Rey Dau"
+        },
+        {
+            "animacoes": 46,
+            "cobertura": 66,
+            "id": "6:t",
+            "medicoes": 161,
+            "nome": "Tempered Congalala"
+        },
+        {
+            "animacoes": 58,
+            "cobertura": 66,
+            "id": "20",
+            "medicoes": 174,
+            "nome": "Quematrice"
+        },
+        {
+            "animacoes": 8,
+            "cobertura": 0,
+            "id": "29",
+            "medicoes": 8,
+            "nome": "Hirabami"
+        },
+        {
+            "animacoes": 11,
+            "cobertura": 0,
+            "id": "16",
+            "medicoes": 11,
+            "nome": "Doshaguma"
+        },
+        {
+            "animacoes": 72,
+            "cobertura": 44,
+            "id": "8:t",
+            "medicoes": 169,
+            "nome": "Tempered Lagiacrus"
+        },
+        {
+            "animacoes": 4,
+            "cobertura": 0,
+            "id": "4",
+            "medicoes": 6,
+            "nome": "Yian Kut-Ku"
+        },
+        {
+            "animacoes": 62,
+            "cobertura": 13,
+            "id": "1:t",
+            "medicoes": 86,
+            "nome": "Tempered Rathalos"
+        },
+        {
+            "animacoes": 9,
+            "cobertura": 0,
+            "id": "13:t",
+            "medicoes": 9,
+            "nome": "Tempered Mizutsune"
+        },
+        {
+            "animacoes": 79,
+            "cobertura": 61,
+            "id": "26",
+            "medicoes": 219
+        },
+        {
+            "animacoes": 59,
+            "cobertura": 96,
+            "golpes_em_voce_sessao": 8,
+            "id": "19",
+            "medicoes": 960,
+            "nome": "Chatacabra",
+            "previstos_sessao": 6
+        }
+    ],
+    "prints": [
+        "== Defesa Automatica v0.60 ==",
+        "Arma: Long Sword (foresight > esquiva) - sacada: true - defesa: agindo - jogadores: 1 - Guard Up: sim - M4: comandos 26",
+        "Tempos (ms antes do golpe): Foresight Slash 120 - esquiva 150 - ls_iss_ms 163 - ls_ss_min_ms 1700 - ls_ss_max_ms 3000 - ls_janela_combo_ms 2300 - ls_bloqueio_ms 400",
+        "Long Sword: em combo = true - ultimo golpe seu ha 0.0s (janela 2300 ms) - sua animacao 20:212 - ataques aprendidos 46 - toques M5 38, M2 41",
+        "Long Sword: bloqueio dos seus botoes na animacao atual 550 ms - aprendido em 16 animacoes (maior 850 ms)",
+        "SS+ISS (prioridade 1, FS 2, esquiva 3): ligado - agora: - - nesta sessao: OK (contra-ataque do ISS): 6, SS nao saiu: 6, cancelado por voce (M1): 1, SS nao saiu (saiu esquiva): 1, sem golpe: cancelou com M1: 8",
+        "Spirit Gauge: nivel 3 (YELLOW) - vermelho a partir de 4 - abaixo do vermelho: SS+ISS > FS > esquiva - modo: SOMENTE SS+ISS - golpes que o FS nao defende: 0",
+        "ISS: 163 ms antes do golpe (ajusta sozinho) - golpe chegou depois do M5 nos ultimos ISS certos: 162, 78, 116, 107, 279, 162 ms",
+        "SS: postura maxima 4000 ms (ainda nao medida) - SS sai de 12 animacoes suas (tempo que o seu golpe prende: 20:195 128ms (1/2), 20:198 434ms (1/1), 20:199 133ms (3/5), 20:201 235ms (2/2), 20:208 278ms (1/1), 20:210 168ms (1/1), 20:211 326ms (1/1), 20:212 577ms (1/1), 20:213 1274ms (1/1), 20:252 252ms (1/2), 20:265 138ms (1/1), 20:292 249ms (1/1)) - 1 animacoes onde o SS nao sai",
+        "Janela do combo (aprendida): FS ate 2300 ms (saiu ate -, nao saiu a partir de -, 0 tentativas) - SS ate 2300 ms (saiu ate 0, nao saiu -, 22) - idade do combo agora 0 ms",
+        "Leitura do SS+ISS: desligada - 0 leituras salvas nesta sessao",
+        "Vida: 149 - ultimo dano ha 131.9s",
+        "Ultimas defesas (nova primeiro): defesa - ms antes do golpe - sua animacao antes -> 0,25s depois - resultado",
+        "   SS+ISS - 2663 ms - 20:195 -> 20:249 - sem golpe: cancelou com M1",
+        "   SS+ISS - 2173 ms - 20:195 -> 20:195 - SS nao saiu",
+        "   SS+ISS - 2996 ms - 20:212 -> 20:212 - sem golpe: cancelou com M1",
+        "   SS+ISS - 2278 ms - 20:251 -> 20:251 - SS nao saiu",
+        "   SS+ISS - 2987 ms - 20:211 -> 20:211 - sem golpe: cancelou com M1",
+        "   SS+ISS - 2100 ms - 20:208 -> 20:249 - sem golpe: cancelou com M1",
+        "   SS+ISS - 2558 ms - 20:199 -> 20:249 - sem golpe: cancelou com M1",
+        "   SS+ISS - 1763 ms - 20:199 -> 20:199 - SS nao saiu",
+        "Ultima decisao: somente SS+ISS: golpe sem tempo para o SS",
+        "Ultimo resultado: SS+ISS: sem golpe: cancelou com M1",
+        "Monstro: Chatacabra (19) - 15.0 m - animacao 50:21 - proximo golpe em 1.90s (tipo 0)",
+        "Conhecimento deste monstro: 59 animacoes, 960 medicoes - cobertura 96% - previstos nesta sessao: 6 de 8",
+        "Conhecimento (todos): 11 monstros, 410 animacoes, 1805 medicoes - previstos nesta sessao: 6 de 8 - ultimo erro: -77 ms - aprendidos no seu Palico: 4 - aprendidos defendendo (FS/ISS): 6"
+    ],
+    "salvo_as": "2026-11-14 16:22:42",
+    "versao_mod": "0.60"
+}

@@ -1,0 +1,130 @@
+{
+    "aprendidos_com_outros": 0,
+    "defesas": null,
+    "monstros": [
+        {
+            "animacoes": 44,
+            "cobertura": 32,
+            "id": "6",
+            "medicoes": 62,
+            "nome": "Congalala"
+        },
+        {
+            "animacoes": 8,
+            "cobertura": 0,
+            "id": "29",
+            "medicoes": 8,
+            "nome": "Hirabami"
+        },
+        {
+            "animacoes": 65,
+            "cobertura": 96,
+            "id": "19",
+            "medicoes": 1780,
+            "nome": "Chatacabra"
+        },
+        {
+            "animacoes": 9,
+            "cobertura": 0,
+            "id": "13:t",
+            "medicoes": 9,
+            "nome": "Tempered Mizutsune"
+        },
+        {
+            "animacoes": 109,
+            "cobertura": 91,
+            "id": "8:t",
+            "medicoes": 1363,
+            "nome": "Tempered Lagiacrus"
+        },
+        {
+            "animacoes": 46,
+            "cobertura": 66,
+            "id": "6:t",
+            "medicoes": 161,
+            "nome": "Tempered Congalala"
+        },
+        {
+            "animacoes": 79,
+            "cobertura": 61,
+            "id": "26",
+            "medicoes": 219
+        },
+        {
+            "animacoes": 4,
+            "cobertura": 0,
+            "id": "4",
+            "medicoes": 6,
+            "nome": "Yian Kut-Ku"
+        },
+        {
+            "animacoes": 2,
+            "cobertura": 0,
+            "id": "23",
+            "medicoes": 2,
+            "nome": "Rey Dau"
+        },
+        {
+            "animacoes": 62,
+            "cobertura": 13,
+            "id": "1:t",
+            "medicoes": 86,
+            "nome": "Tempered Rathalos"
+        },
+        {
+            "animacoes": 53,
+            "cobertura": 31,
+            "id": "1",
+            "medicoes": 89,
+            "nome": "Rathalos"
+        },
+        {
+            "animacoes": 15,
+            "cobertura": 43,
+            "id": "16",
+            "medicoes": 23,
+            "nome": "Doshaguma"
+        },
+        {
+            "animacoes": 58,
+            "cobertura": 66,
+            "id": "20",
+            "medicoes": 174,
+            "nome": "Quematrice"
+        }
+    ],
+    "prints": [
+        "== Defesa Automatica v0.92 ==",
+        "Arma: Hammer (charged_step > esquiva) - sacada: true - defesa: agindo - jogadores: 1 - Guard Up: sempre - M4: comandos 26",
+        "Tempos (ms antes do golpe): Charged Step 900 - esquiva 150 - martelo_step_ms 150",
+        "Vida: 150 - ultimo dano ha 1425.4s",
+        "Ultimas defesas (nova primeiro): defesa - ms antes do golpe - sua animacao antes -> 0,25s depois - resultado",
+        "   (nenhuma ainda)",
+        "Ultima decisao: -",
+        "Ultimo resultado: -",
+        "Monstro: Arkveld (27) - 70.5 m - animacao 4:48",
+        "Conhecimento deste monstro: 0 animacoes, 0 medicoes - cobertura 0% - previstos nesta sessao: 0 de 0",
+        "Conhecimento (todos): 13 monstros, 554 animacoes, 3982 medicoes - previstos nesta sessao: 0 de 0 - ultimo erro: - - aprendidos no seu Palico: 0 - aprendidos defendendo (FS/ISS): 0",
+        "Aprendizado novo: por contato (esquivas / FS / ISS) 0 - contatos descartados 0 - pela area de ataque 0 (areas vistas 25, relogios acertados 0) - golpes repetidos vistos 0",
+        "Area de ataque: 176 animacoes com area vista, 29 confiaveis, 23 so com area (golpe nunca chegou em ninguem) - ganchos: contato ok, area ok, invencibilidade ok, fim da quest ok",
+        "Long Sword (jogo): contra do FS ativo - s, contra do ISS ativo - s, postura maxima - s - FS trocado por esquiva: 0 fora da janela, 0 sem barra - ISS esperou o jogo aceitar: 0",
+        "Geometria: areas medidas 106 (encostaram em voce 0, passaram perto 0, longe 106) - golpes previstos pela geometria 0 - projeteis vistos 8 - rugidos 0",
+        "Tipos de golpe sem dano vistos: nenhum",
+        "Golpes por estado do monstro (chegam antes - / depois +): sem dados",
+        "Velocidade das animacoes de golpe: sem dados",
+        "Guardas confirmadas pelo jogo: nenhuma",
+        "Long Sword - golpes com nome do jogo: 0 () - tabela salva: ainda nao",
+        "M2 automatico (parado -> SS+ISS): 0 apertados, 0 abriram o combo, 0 nao sairam",
+        "Falhas (levou dano): 0 - previstas com menos de 0,8s de aviso: 0 - voce preso num golpe seu: 0 (sem trava antes: 0) - sem dado de aviso: 0",
+        "Golpes seus que comecaram com a trava ligada: 0 de 0 (nenhum)",
+        "Botoes apertados nesses golpes (comando: vezes): nenhum",
+        "Forcados: nenhum - acoes aprendidas: arma 4 esquiva=(1,20)",
+        "Pedidos diretos ao jogo (so nas janelas): nenhum",
+        "Contatos de golpes em voce: 0 passaram, 0 falharam, 0 na sua invencibilidade",
+        "Invencibilidade: nenhum golpe pego na invencibilidade ainda",
+        "Monstros soltos (fim da quest / troca de cena): troca de cena 3",
+        "Mensagem: Captura 2 terminada (4016 valores por foto)."
+    ],
+    "salvo_as": "2026-11-15 23:23:32",
+    "versao_mod": "0.92"
+}

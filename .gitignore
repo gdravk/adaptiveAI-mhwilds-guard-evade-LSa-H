@@ -1,0 +1,11 @@
+# atalho para a pasta do jogo (no GitHub vira link quebrado)
+Prints
+# arquivo vazio
+tmp.lua
+# arquivos temporarios do verificador
+agent/ferramentas/d.txt
+agent/ferramentas/u.txt
+agent/ferramentas/oa.txt
+agent/ferramentas/od.txt
+# versao em texto puro do README (o GitHub mostra o README.md)
+README.txt

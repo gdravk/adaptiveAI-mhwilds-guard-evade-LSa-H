@@ -1,0 +1,123 @@
+=== relatorio_2026-11-16_02-05-28.json
+versao 0.99
+== Defesa Automatica v0.99 ==
+Arma: Long Sword (foresight > esquiva) - sacada: false - defesa: parada: M4 (guardar a arma e correr) - jogadores: 1 - Guard Up: sempre - M4: comandos 26
+Tempos (ms antes do golpe): Foresight Slash 120 - esquiva 150 - ls_iss_ms 179 - ls_ss_min_ms 1700 - ls_ss_max_ms 3000 - ls_janela_combo_ms 2300 - ls_bloqueio_ms 400 - ls_trava_fixa_ms 2000
+Long Sword: em combo = false - ultimo golpe seu ha 61.2s (janela 2300 ms) - sua animacao 50:95 - ataques aprendidos 87 - toques M5 38, M2 41
+Long Sword: bloqueio dos seus botoes na animacao atual 400 ms - aprendido em 31 animacoes (maior 950 ms)
+SS+ISS (prioridade 1, FS 2, esquiva 3): ligado - agora: - - nesta sessao: LEVOU DANO na postura: 2, SS nao saiu (saiu esquiva): 8, SS nao saiu: 2, OK (contra-ataque do ISS): 25, cancelado por voce (M1): 2, ISS saiu, sem contra-ataque: 3, LEVOU DANO: 1
+Spirit Gauge: nivel 2 (WHITE) - vermelho a partir de 4 - abaixo do vermelho: SS+ISS > FS > esquiva - modo: normal - golpes que o FS nao defende: 8
+ISS: 179 ms antes do golpe (ajusta sozinho) - golpe chegou depois do M5 nos ultimos ISS certos: 102, 222, 295, 167, 100, 188, 136, 98 ms
+SS: postura maxima 4000 ms (ainda nao medida) - SS sai de 34 animacoes suas (tempo que o seu golpe prende: 20:195 744ms (13/19), 20:198 434ms (1/1), 20:199 197ms (27/38), 20:200 123ms (46/56), 20:201 62ms (82/122), 20:202 356ms (2/3), 20:208 198ms (9/11), 20:209 610ms (3/6), 20:210 251ms (4/6), 20:211 394ms (29/34), 20:212 349ms (4/5), 20:213 1274ms (1/2), 20:252 251ms (15/26), 20:264 153ms (4/8), 20:265 197ms (4/7), 20:285 274ms (7/8), 20:286 145ms (1/1), 20:288 74ms (11/14), 20:289 81ms (24/29), 20:290 34ms (8/10), 20:292 261ms (2/2), 20:293 33ms (1/1), 20:310 1142ms (1/3), 20:312 35ms (1/3), 20:322 140ms (1/1), 20:323 518ms (1/1), 20:340 1225ms (1/1), 20:350 147ms (4/4), 20:436 30ms (1/3), 20:444 30ms (1/1), 20:445 28ms (2/2), 20:447 26ms (1/2), 20:64 30ms (1/3), 20:65 36ms (1/1)) - 14 animacoes onde o SS nao sai
+Janela do combo (aprendida): FS ate 2300 ms (saiu ate 1763, nao saiu a partir de -, 40 tentativas) - SS ate 2300 ms (saiu ate 918, nao saiu -, 40) - idade do combo agora 61245 ms
+Trava: comandos extras descobertos: 82, 53, 70, 16, 27, 63
+Seus golpes: 70 medidos (o mais longo prende 1433 ms) - golpe atual 50:95 prende - ms - ataques livres
+Leitura do SS+ISS: desligada - 0 leituras salvas nesta sessao
+Vida: 150 - ultimo dano ha 86.8s
+Ultimas defesas (nova primeiro): defesa - ms antes do golpe - sua animacao antes -> 0,25s depois - resultado
+   esquiva - 138 ms - 14:111 -> 20:61 - LEVOU DANO
+   esquiva - 141 ms - 20:166 -> 14:46 - LEVOU DANO
+   esquiva - 128 ms - 20:285 -> 14:46 - LEVOU DANO
+   Foresight Slash - 108 ms - 20:289 -> 20:290 - ... - apertou diretox
+   SS+ISS - 2979 ms - 20:288 -> 20:249 - cancelado por voce (M1)
+   Foresight Slash - 117 ms - 14:66 -> 20:290 - ... - apertou diretox
+   Foresight Slash - -249 ms - 14:66 -> 20:290 - nao deu (sem tempo)
+   Foresight Slash - -38 ms - 14:56 -> 14:56 - nao deu (sem tempo)
+Ultima decisao: esquiva em 50:122 (nivel 1, angulo 2)
+Ultimo resultado: FALHOU com a esquiva de reserva (espada_longa:8:t:50:122) - aprendizado nao muda
+Monstro: Tempered Lagiacrus (8:t) - 40.4 m - animacao 1:311
+Conhecimento deste monstro: 121 animacoes, 1672 medicoes - cobertura 91% - previstos nesta sessao: 35 de 39
+Conhecimento (todos): 13 monstros, 579 animacoes, 4762 medicoes - previstos nesta sessao: 60 de 65 - ultimo erro: - - aprendidos no seu Palico: 63 - aprendidos defendendo (FS/ISS): 35
+Aprendizado novo: por contato (esquivas / FS / ISS) 19 - contatos descartados 0 - pela area de ataque 34 (areas vistas 527, relogios acertados 110) - golpes repetidos vistos 23
+Area de ataque: 255 animacoes com area vista, 46 confiaveis, 35 so com area (golpe nunca chegou em ninguem) - ganchos: contato ok, area ok, invencibilidade ok, fim da quest ok
+Long Sword (jogo): contra do FS ativo 0.4 s, contra do ISS ativo 0.3 s, postura maxima 4.5 s - FS trocado por esquiva: 9 fora da janela, 0 sem barra - ISS esperou o jogo aceitar: 1
+Geometria: areas medidas 1438 (encostaram em voce 494, passaram perto 417, longe 527) - golpes previstos pela geometria 43 - projeteis vistos 328 - rugidos 6
+Tipos de golpe sem dano vistos: SMASH_MIDDLE 1, EAR 6
+Golpes por estado do monstro (chegam antes - / depois +): Chatacabra normal: +12 ms (12) - Chatacabra raiva: +58 ms (13) - Tempered Lagiacrus raiva: -48 ms (28) - Tempered Lagiacrus normal: +22 ms (7)
+Velocidade das animacoes de golpe: Chatacabra 1.00 (1.00 a 1.00) - Tempered Lagiacrus 1.00 (1.00 a 1.00)
+Guardas confirmadas pelo jogo: S 2, WP06_POWER_GUARD_S 1, TECHNICAL 14, BLOCK 1
+Long Sword - golpes com nome do jogo: 236 (20:162=cDownFaceDownToMove, 0:15=cRun, 50:72=cPorterRideRun, 1:39=cWalk, 1:253=cDash, 14:66=cLandSmashRight, 20:250=cIaiWpOff, 12:151=cRun, 15:11=cFastTravelLand, 13:359=cSimpleTalkIdle, 20:91=cJump, 50:91=cPorterRideTurn180, 24:33=cTempTentIdle, 7:131=cPorterRideRespawn, 50:67=cPorterRideSplint, 7:133=cPorterRideRespawn, 1:30=cDashStop, 1:42=cWalk, 20:163=cDownFaceDownToMove, 13:43=cGetOutTempTent, 20:286=cSlash1, 28:18=cExFieldMove, 14:50=cDamageSmashSmallRight, 15:62=cPorterRideRespawn, 103:313=cPorterRideClimbing, 28:1=cExFieldMove, 14:54=cDamageSmashHyper, 20:340=cWpFlyOn, 13:2=cGetOutTent, 20:312=cSlash1) - tabela salva: _ActionGuideData_Wp03 624, _ActionGuideData_Wp03Always 37, _ActionGuideName_Wp03 79, _ActionGuideData_Wp03Combo 3, _ActionGuideData_Wp03ComboDetail 16
+M2 automatico (parado -> SS+ISS): 0 apertados, 0 abriram o combo, 0 nao sairam
+Falhas (levou dano): 13 - previstas com menos de 0,8s de aviso: 2 - voce preso num golpe seu: 8 (sem trava antes: 6) - sem dado de aviso: 0
+Golpes seus que comecaram com a trava ligada: 7 de 191 (20:285 2, 20:201 1, 20:289 1, 20:288 2, 20:210 1)
+Botoes apertados nesses golpes (comando: vezes): 42 2
+Forcados: ss 33 saiu / 0 nao, fs 37 saiu / 1 nao, esquiva 55 saiu / 2 nao, guarda 29 saiu / 0 nao - acoes aprendidas: arma 6 esquiva=(1,20), arma 5 esquiva=(1,20), arma 8 esquiva=(1,20), arma 7 esquiva=(2,0), arma 2 esquiva=(1,19), arma 1 esquiva=(1,20), arma 10 esquiva=(1,19), arma 3 ss=(2,23), arma 3 esquiva=(1,20), arma 3 fs=(2,16), arma 11 esquiva=(1,19), arma 12 esquiva=(1,19), arma 0 esquiva=(1,20), arma 9 esquiva=(1,19), arma 4 esquiva=(1,20), arma 4 passo=(2,73), arma 13 esquiva=(1,19)
+Pedidos diretos ao jogo (so nas janelas): esquiva 57, guarda 18, SS 33, FS 38, ISS 29, guarda (contra) 12
+Contatos de golpes em voce: 134 passaram, 2 falharam, 44 na sua invencibilidade
+Invencibilidade: tipo 15: 1 golpes, chegaram em media 47 ms depois do inicio (invencibilidade de 333 ms) - tipo 12: 4 golpes, chegaram em media 100 ms depois do inicio (invencibilidade de 217 ms) - FS vermelho: 24 golpes, chegaram em media 181 ms depois do inicio (invencibilidade de 750 ms) - esquiva: 12 golpes, chegaram em media 106 ms depois do inicio (invencibilidade de 217 ms) - passo: 3 golpes, chegaram em media 198 ms depois do inicio (invencibilidade de 167 ms)
+Monstros soltos (fim da quest / troca de cena): troca de cena 8, fim da quest 4
+=== relatorio_2026-11-16_00-54-27.json
+versao 0.98
+== Defesa Automatica v0.98 ==
+Arma: Bow (esquiva) - sacada: true - defesa: agindo - jogadores: 1 - Guard Up: sempre - M4: comandos 26
+Tempos (ms antes do golpe): esquiva 150
+Vida: 146 - ultimo dano ha 203.0s
+Ultimas defesas (nova primeiro): defesa - ms antes do golpe - sua animacao antes -> 0,25s depois - resultado
+   esquiva - 146 ms - 20:278 -> 20:63 - OK (sem dano)
+   esquiva - 145 ms - 20:63 -> 20:63 - ...
+   esquiva - 148 ms - 20:275 -> 20:63 - ...
+   esquiva - 143 ms - 20:63 -> 20:63 - ...
+   esquiva - 141 ms - 14:54 -> 20:63 - ...
+   esquiva - 126 ms - 20:284 -> 20:63 - OK (sem dano)
+   esquiva - 126 ms - 20:63 -> 20:63 - ...
+   esquiva - 132 ms - 20:33 -> 20:63 - ...
+Ultima decisao: esquiva em 50:187 (nivel 1, angulo 20)
+Ultimo resultado: defendeu com esquiva (arco:19:50:187)
+Monstro: Chatacabra (19) - 10.8 m - animacao 4:46
+Conhecimento deste monstro: 66 animacoes, 2062 medicoes - cobertura 98% - previstos nesta sessao: 83 de 89
+Conhecimento (todos): 13 monstros, 565 animacoes, 4379 medicoes - previstos nesta sessao: 83 de 89 - ultimo erro: 212 ms - aprendidos no seu Palico: 39 - aprendidos defendendo (FS/ISS): 11
+Aprendizado novo: por contato (esquivas / FS / ISS) 11 - contatos descartados 0 - pela area de ataque 88 (areas vistas 377, relogios acertados 171) - golpes repetidos vistos 6
+Area de ataque: 243 animacoes com area vista, 39 confiaveis, 33 so com area (golpe nunca chegou em ninguem) - ganchos: contato ok, area ok, invencibilidade ok, fim da quest ok
+Long Sword (jogo): contra do FS ativo 0.4 s, contra do ISS ativo 0.3 s, postura maxima 4.5 s - FS trocado por esquiva: 3 fora da janela, 0 sem barra - ISS esperou o jogo aceitar: 0
+Geometria: areas medidas 1888 (encostaram em voce 676, passaram perto 657, longe 555) - golpes previstos pela geometria 54 - projeteis vistos 22 - rugidos 0
+Tipos de golpe sem dano vistos: nenhum
+Golpes por estado do monstro (chegam antes - / depois +): Chatacabra raiva: +30 ms (40) - Chatacabra normal: +25 ms (26)
+Velocidade das animacoes de golpe: Chatacabra 1.00 (1.00 a 1.00)
+Guardas confirmadas pelo jogo: S 2, BLOCK 2, GUARD_POINT_S 2, TECHNICAL 16
+Long Sword - golpes com nome do jogo: 116 (20:293=cRedKijinSlashFinal, 0:16=cRun, 20:252=cIaiKijinSlash, 50:35=cPorterRideDash, 7:458=cDamageCatchZakoRestrained, 106:2=cDash, 7:451=cDamageCatchZakoRestrained, 20:64=cDodgeToMove, 20:212=cKijinSlash3, 20:289=cSlash3, 20:436=cAimIdle, 20:37=cMove, 20:61=cDodgeFront, 56:16=cPorterRideStartJumpOnto, 0:0=cIdle, 20:263=cIaiKijinSlashWhite, 20:445=cAimWalk, 103:1=cPorterDismountJumpOff, 20:288=cSlash2, 7:49=cDownFaceDownToMove, 20:443=cAimWalk, 20:285=cSlash1, 23:18=cTempTentStatus, 20:201=cSlash2, 13:42=cGetInTempTent, 1:30=cDashStop, 20:253=cIaiEnd, 20:323=cStub, 7:204=cDamageSmashMiddleLeft, 20:166=cDownFaceUpToMove) - tabela salva: _ActionGuideName_Wp03 79, _ActionGuideData_Wp03Always 37, _ActionGuideData_Wp03Combo 3, _ActionGuideData_Wp03 624, _ActionGuideData_Wp03ComboDetail 16
+M2 automatico (parado -> SS+ISS): 0 apertados, 0 abriram o combo, 0 nao sairam
+Falhas (levou dano): 10 - previstas com menos de 0,8s de aviso: 2 - voce preso num golpe seu: 1 (sem trava antes: 1) - sem dado de aviso: 0
+Golpes seus que comecaram com a trava ligada: 0 de 82 (nenhum)
+Botoes apertados nesses golpes (comando: vezes): nenhum
+Forcados: fs 6 saiu / 0 nao, esquiva 129 saiu / 2 nao, ss 15 saiu / 0 nao, contra_sa 12 saiu / 0 nao, passo 7 saiu / 1 nao, bloqueio 15 saiu / 0 nao - acoes aprendidas: arma 11 esquiva=(1,19), arma 10 esquiva=(1,19), arma 1 esquiva=(1,20), arma 0 esquiva=(1,20), arma 12 esquiva=(1,19), arma 13 esquiva=(1,19), arma 5 esquiva=(1,20), arma 4 passo=(2,73), arma 4 esquiva=(1,20), arma 7 esquiva=(2,0), arma 6 esquiva=(1,20), arma 9 esquiva=(1,19), arma 8 esquiva=(1,20), arma 2 esquiva=(1,19), arma 3 fs=(2,16), arma 3 esquiva=(1,20), arma 3 ss=(2,23)
+Pedidos diretos ao jogo (so nas janelas): FS 6, esquiva 131, Perfect Block 17, SS 15, Charged Step 8, SA Counter 13, SA postura 13, ISS 13
+Contatos de golpes em voce: 107 passaram, 3 falharam, 23 na sua invencibilidade
+Invencibilidade: FS vermelho: 4 golpes, chegaram em media 254 ms depois do inicio (invencibilidade de 750 ms) - esquiva: 12 golpes, chegaram em media 261 ms depois do inicio (invencibilidade de 217 ms) - tipo 3: 7 golpes, chegaram em media 58 ms depois do inicio (invencibilidade de 233 ms)
+Monstros soltos (fim da quest / troca de cena): troca de cena 30, fim da quest 27
+=== relatorio_2026-11-16_00-43-29.json
+versao 0.97
+== Defesa Automatica v0.97 ==
+Arma: Charge Blade (guarda > esquiva) - sacada: false - defesa: parada: arma guardada: o mod nao faz nada - jogadores: 1 - Guard Up: sempre - M4: comandos 26
+Tempos (ms antes do golpe): guarda 120 - esquiva 150 - ponte_guarda_ms 900 - manter_apos_golpe_ms 600
+Vida: 133 - ultimo dano ha 17.9s
+Ultimas defesas (nova primeiro): defesa - ms antes do golpe - sua animacao antes -> 0,25s depois - resultado
+   esquiva - 93 ms - 20:511 -> 20:100 - ...
+   guarda - 111 ms - 20:511 -> 20:100 - nao deu (forma machado)
+   esquiva - 82 ms - 14:48 -> 20:170 - ...
+   guarda - 104 ms - 14:48 -> 20:170 - nao deu (forma machado)
+   esquiva - 145 ms - 20:100 -> 20:100 - ...
+   esquiva - 149 ms - 20:510 -> 20:100 - ...
+   esquiva - 88 ms - 20:512 -> 20:100 - ...
+   guarda - 106 ms - 20:512 -> 20:100 - nao deu (forma machado)
+Ultima decisao: guarda indisponivel agora -> esquiva
+Ultimo resultado: FALHOU com guarda (lamina:20:50:122) -> proxima vez: guarda
+Monstro: nenhum monstro grande por perto
+Conhecimento (todos): 13 monstros, 564 animacoes, 4097 medicoes - previstos nesta sessao: 19 de 21 - ultimo erro: -210 ms - aprendidos no seu Palico: 10 - aprendidos defendendo (FS/ISS): 0
+Aprendizado novo: por contato (esquivas / FS / ISS) 6 - contatos descartados 0 - pela area de ataque 7 (areas vistas 116, relogios acertados 13) - golpes repetidos vistos 2
+Area de ataque: 217 animacoes com area vista, 32 confiaveis, 31 so com area (golpe nunca chegou em ninguem) - ganchos: contato ok, area ok, invencibilidade ok, fim da quest ok
+Long Sword (jogo): contra do FS ativo - s, contra do ISS ativo - s, postura maxima - s - FS trocado por esquiva: 0 fora da janela, 0 sem barra - ISS esperou o jogo aceitar: 0
+Geometria: areas medidas 420 (encostaram em voce 103, passaram perto 108, longe 209) - golpes previstos pela geometria 25 - projeteis vistos 57 - rugidos 0
+Tipos de golpe sem dano vistos: NONE 14
+Golpes por estado do monstro (chegam antes - / depois +): Quematrice normal: -51 ms (8) - Quematrice raiva: -17 ms (11)
+Velocidade das animacoes de golpe: Quematrice 1.00 (1.00 a 1.00)
+Guardas confirmadas pelo jogo: TECHNICAL 4, L 2
+Long Sword - golpes com nome do jogo: 0 () - tabela salva: ainda nao
+M2 automatico (parado -> SS+ISS): 0 apertados, 0 abriram o combo, 0 nao sairam
+Falhas (levou dano): 7 - previstas com menos de 0,8s de aviso: 3 - voce preso num golpe seu: 0 (sem trava antes: 0) - sem dado de aviso: 0
+Golpes seus que comecaram com a trava ligada: 0 de 0 (nenhum)
+Botoes apertados nesses golpes (comando: vezes): nenhum
+Forcados: esquiva 32 saiu / 3 nao - acoes aprendidas: arma 1 esquiva=(1,19), arma 0 esquiva=(1,19), arma 5 esquiva=(1,20), arma 4 esquiva=(1,20), arma 3 ss=(2,23), arma 2 esquiva=(1,19), arma 9 esquiva=(1,19), arma 8 esquiva=(1,19), arma 12 esquiva=(1,19), arma 13 esquiva=(1,19), arma 7 esquiva=(2,0), arma 6 esquiva=(1,20), arma 11 esquiva=(1,19), arma 10 esquiva=(1,19)
+Pedidos diretos ao jogo (so nas janelas): esquiva 35
+Contatos de golpes em voce: 26 passaram, 1 falharam, 8 na sua invencibilidade
+Invencibilidade: esquiva: 8 golpes, chegaram em media 98 ms depois do inicio (invencibilidade de 217 ms)
+Monstros soltos (fim da quest / troca de cena): fim da quest 2, troca de cena 3

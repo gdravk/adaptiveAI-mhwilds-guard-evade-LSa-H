@@ -1,0 +1,251 @@
+{
+    "monstros": [
+        {
+            "animacoes": 28,
+            "cobertura": 81,
+            "id": "21:t",
+            "medicoes": 127,
+            "nome": "Tempered Lala Barina"
+        },
+        {
+            "animacoes": 146,
+            "cobertura": 72,
+            "id": "13:t",
+            "medicoes": 580,
+            "nome": "Tempered Mizutsune"
+        },
+        {
+            "animacoes": 175,
+            "cobertura": 95,
+            "id": "8:t",
+            "medicoes": 4446,
+            "nome": "Tempered Lagiacrus"
+        },
+        {
+            "animacoes": 48,
+            "cobertura": 66,
+            "id": "6:t",
+            "medicoes": 163,
+            "nome": "Tempered Congalala"
+        },
+        {
+            "animacoes": 12,
+            "cobertura": 10,
+            "id": "4:t",
+            "medicoes": 20,
+            "nome": "Tempered Yian Kut-Ku"
+        },
+        {
+            "animacoes": 62,
+            "cobertura": 13,
+            "id": "1:t",
+            "medicoes": 86,
+            "nome": "Tempered Rathalos"
+        },
+        {
+            "animacoes": 13,
+            "cobertura": 67,
+            "id": "2:t",
+            "medicoes": 30,
+            "nome": "Tempered Guardian Rathalos"
+        },
+        {
+            "animacoes": 13,
+            "cobertura": 82,
+            "id": "14:t",
+            "medicoes": 33,
+            "nome": "Tempered Guardian Fulgur Anjanath"
+        },
+        {
+            "animacoes": 5,
+            "cobertura": 0,
+            "id": "16:t",
+            "medicoes": 6,
+            "nome": "Tempered Doshaguma"
+        },
+        {
+            "animacoes": 2,
+            "cobertura": 0,
+            "id": "23",
+            "medicoes": 2,
+            "nome": "Rey Dau"
+        },
+        {
+            "animacoes": 5,
+            "cobertura": 73,
+            "id": "15",
+            "medicoes": 11,
+            "nome": "Guardian Ebony Odogaron"
+        },
+        {
+            "animacoes": 68,
+            "cobertura": 98,
+            "id": "19",
+            "medicoes": 2136,
+            "nome": "Chatacabra"
+        },
+        {
+            "animacoes": 14,
+            "cobertura": 0,
+            "id": "29",
+            "medicoes": 16,
+            "nome": "Frenzied Hirabami"
+        },
+        {
+            "animacoes": 8,
+            "cobertura": 0,
+            "id": "25",
+            "medicoes": 9,
+            "nome": "Nu Udra"
+        },
+        {
+            "animacoes": 10,
+            "cobertura": 47,
+            "id": "20:t",
+            "medicoes": 15,
+            "nome": "Tempered Quematrice"
+        },
+        {
+            "animacoes": 177,
+            "cobertura": 65,
+            "id": "10:t",
+            "medicoes": 628,
+            "nome": "Tempered Gore Magala"
+        },
+        {
+            "animacoes": 53,
+            "cobertura": 31,
+            "id": "1",
+            "medicoes": 89,
+            "nome": "Rathalos"
+        },
+        {
+            "animacoes": 4,
+            "cobertura": 78,
+            "id": "2",
+            "medicoes": 18,
+            "nome": "Guardian Rathalos"
+        },
+        {
+            "animacoes": 20,
+            "cobertura": 30,
+            "id": "4",
+            "medicoes": 44,
+            "nome": "Yian Kut-Ku"
+        },
+        {
+            "animacoes": 3,
+            "cobertura": 0,
+            "id": "5",
+            "medicoes": 3,
+            "nome": "Gypceros"
+        },
+        {
+            "animacoes": 52,
+            "cobertura": 45,
+            "id": "6",
+            "medicoes": 145,
+            "nome": "Congalala"
+        },
+        {
+            "animacoes": 32,
+            "cobertura": 59,
+            "id": "9",
+            "medicoes": 85,
+            "nome": "Nerscylla Clone"
+        },
+        {
+            "animacoes": 6,
+            "cobertura": 69,
+            "id": "29:t",
+            "medicoes": 13,
+            "nome": "Tempered Hirabami"
+        },
+        {
+            "animacoes": 27,
+            "cobertura": 21,
+            "id": "27:t",
+            "medicoes": 39,
+            "nome": "Tempered Arkveld"
+        },
+        {
+            "animacoes": 14,
+            "cobertura": 82,
+            "id": "15:t",
+            "medicoes": 34,
+            "nome": "Tempered Guardian Ebony Odogaron"
+        },
+        {
+            "animacoes": 69,
+            "cobertura": 78,
+            "id": "25:t",
+            "medicoes": 271,
+            "nome": "Tempered Nu Udra"
+        },
+        {
+            "animacoes": 12,
+            "cobertura": 83,
+            "id": "17:t",
+            "medicoes": 36,
+            "nome": "Tempered Guardian Doshaguma"
+        },
+        {
+            "animacoes": 108,
+            "cobertura": 68,
+            "id": "27:at",
+            "medicoes": 325,
+            "nome": "Arch-tempered Arkveld"
+        },
+        {
+            "animacoes": 1,
+            "cobertura": 0,
+            "id": "9:t",
+            "medicoes": 1,
+            "nome": "Tempered Nerscylla"
+        },
+        {
+            "animacoes": 25,
+            "cobertura": 48,
+            "id": "16",
+            "medicoes": 50,
+            "nome": "Doshaguma"
+        },
+        {
+            "animacoes": 15,
+            "cobertura": 54,
+            "id": "14",
+            "medicoes": 26,
+            "nome": "Guardian Fulgur Anjanath"
+        },
+        {
+            "animacoes": 12,
+            "cobertura": 55,
+            "id": "17",
+            "medicoes": 20,
+            "nome": "Guardian Doshaguma"
+        },
+        {
+            "animacoes": 79,
+            "cobertura": 61,
+            "id": "26",
+            "medicoes": 219
+        },
+        {
+            "animacoes": 96,
+            "cobertura": 91,
+            "golpes_em_voce_sessao": 414,
+            "id": "34",
+            "medicoes": 1356,
+            "nome": "Omega Planetes",
+            "previstos_sessao": 309
+        },
+        {
+            "animacoes": 69,
+            "cobertura": 71,
+            "id": "20",
+            "medicoes": 301,
+            "nome": "Quematrice"
+        }
+    ],
+    "salvo_as": "2026-11-17 11:55:37"
+}

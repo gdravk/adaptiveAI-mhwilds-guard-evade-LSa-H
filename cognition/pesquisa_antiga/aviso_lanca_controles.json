@@ -1,0 +1,1028 @@
+{
+    "classes": [
+        {
+            "campos": [
+                "0x10 System.String ASSET_URI_TYPE (estatico)"
+            ],
+            "funcoes": [
+                "System.Boolean getTYPEFromFixed()"
+            ],
+            "nome": "app.PlayerCommand",
+            "origem": "nome achado no executavel",
+            "pais": [
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x50 app.user_data.GameInputManagerSetting _Setting",
+                "0x58 ace.user_data.GameKeyDefinition _UserPadPlayerGameKeyDefData",
+                "0x60 ace.user_data.GameKeyDefinition _UserPadUIGameKeyDefData",
+                "0x68 ace.user_data.GameKeyDefinition _UserMkbPlayerGameKeyDefData",
+                "0x70 ace.user_data.GameKeyDefinition _UserMkbUIGameKeyDefData",
+                "0x78 app.cPlayerGameInput[] _PadPlayerInput",
+                "0x80 app.cPlayerGameInput _EmptyPlayerInput",
+                "0x88 app.cUIGameInput[] _PadUIInput",
+                "0x90 app.cUIGameInput _EmptyUIInput",
+                "0x98 app.cDevelopGameInput[] _DevelopInput",
+                "0xA0 app.cDevelopGameInput _EmptyDevelopInput",
+                "0xA8 app.cPcPlayerGameInput[] _MkbPlayerInput",
+                "0xB0 app.cPcPlayerGameInput _EmptyMkbPlayerInput",
+                "0xB8 app.cPcUIGameInput[] _MkbUIInput",
+                "0xC0 app.cPcUIGameInput _EmptyMkbUIInput",
+                "0xC8 ace.BIT_FLAG[] _PlayerButtonMaskFlagStore",
+                "0xD0 app.GameInputManager.UPDATE_INFO[,] _GameInputUpdateList",
+                "0xF4 app.InputDef.DEVICE_STYLE _DeviceStyle",
+                "0xD8 System.UInt64 _PlayerButtonMaskBit",
+                "0xE8 System.Single _MouseSensitivityHorizontal",
+                "0xEC System.Single _MouseSensitivityVertical",
+                "0xF8 System.Boolean _IsReversePlayerMoveCameraStick",
+                "0x50 System.Single TO_NO_INPUT_TIME (estatico = 180.0)",
+                "0x54 System.Single TO_NO_INPUT_DISCONNECT_TIME (estatico = 1800.0)",
+                "0xF0 System.Single _NoInputTimer",
+                "0xE0 ace.cContinueFlag _UpdateNoInputTime"
+            ],
+            "funcoes": [
+                "app.cPlayerGameInput get_PlayerInput()",
+                "app.cUIGameInput get_UIInput()",
+                "app.cDevelopGameInput get_DevelopInput()",
+                "app.cPcPlayerGameInput get_PcPlayerInput()",
+                "app.cPcUIGameInput get_PcUIInput()",
+                "app.InputDef.DEVICE_STYLE get_DeviceStyle()",
+                "System.Single get_MouseSensitivityHorizontal()",
+                "System.Single get_MouseSensitivityVertical()",
+                "ace.user_data.RawKeyDefinition get_RawKeyDefinitionPad()",
+                "ace.user_data.RawKeyDefinition get_RawKeyDefinitonMkb()",
+                "ace.user_data.KeySuccessTypeSetting get_KeySuccessTypeSetting()",
+                "ace.user_data.GameKeyDefinition get_DefaultPadPlayerGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_DefaultPadUIGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_DefaultMkbPlayerGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_DefaultMkbUIGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_PadPlayerGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_PadUIGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_MkbPlayerGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_MkbUIGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_DevGameKeyDefData()",
+                "app.user_data.PlayerGameInputConvertInfo get_PlayerGameInputConvertInfo()",
+                "System.Boolean get_IsReversePlayerMoveCameraStick()",
+                "System.Boolean get_NoInput()",
+                "System.Boolean get_NoInputDisconnect()",
+                "System.Void awakeGA()",
+                "System.Void start()",
+                "System.Void update()",
+                "System.Void updatePlayerInput()",
+                "System.Void updateUIInput()",
+                "System.Boolean isActivePadInput()",
+                "System.Boolean isActiveKeyboardInput()",
+                "System.Boolean isDisableKeyboardInput_Opt()",
+                "System.Void resetKeyConfig()",
+                "app.cDevelopGameInput getDevelopInput()",
+                "System.Void setPlayerButtonMask()",
+                "System.Boolean isActivePlayerButtonMask()",
+                "System.Boolean isActivePlayerButtonMask()",
+                "System.Void applyPlayerButtonMask()",
+                "System.Boolean hasInput()",
+                "System.Void updateNoInputTimer()",
+                "System.Void .ctor()",
+                "System.Void .cctor()"
+            ],
+            "nome": "app.GameInputManager",
+            "origem": "nome achado no executavel",
+            "pais": [
+                "ace.GAElement`1<app.GameInputManager>",
+                "ace.GAElementBase",
+                "via.Behavior",
+                "via.Component",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x20 ace.user_data.RawKeyDefinition _RawKeyDefinitionPad",
+                "0x28 ace.user_data.RawKeyDefinition _RawKeyDefinitonMkb",
+                "0x30 ace.user_data.KeySuccessTypeSetting _KeySuccessTypeSetting",
+                "0x38 ace.user_data.GameKeyDefinition _PadPlayerGameKeyDefData",
+                "0x40 ace.user_data.GameKeyDefinition _PadUIGameKeyDefData",
+                "0x48 ace.user_data.GameKeyDefinition _MkbPlayerGameKeyDefData",
+                "0x50 app.user_data.PlayerGameInputConvertInfo _PlayerGameInputConvertInfo",
+                "0x58 ace.user_data.GameKeyDefinition _MkbUIGameKeyDefData",
+                "0x60 ace.user_data.GameKeyDefinition _DevGameKeyDefData"
+            ],
+            "funcoes": [
+                "ace.user_data.RawKeyDefinition get_RawKeyDefinitionPad()",
+                "ace.user_data.RawKeyDefinition get_RawKeyDefinitonMkb()",
+                "ace.user_data.KeySuccessTypeSetting get_KeySuccessTypeSetting()",
+                "ace.user_data.GameKeyDefinition get_PadPlayerGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_PadUIGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_MkbPlayerGameKeyDefData()",
+                "app.user_data.PlayerGameInputConvertInfo get_PlayerGameInputConvertInfo()",
+                "ace.user_data.GameKeyDefinition get_MkbUIGameKeyDefData()",
+                "ace.user_data.GameKeyDefinition get_DevGameKeyDefData()"
+            ],
+            "nome": "app.user_data.GameInputManagerSetting",
+            "origem": "campo _Setting de app.GameInputManager",
+            "pais": [
+                "via.UserData",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x20 System.Collections.Generic.List`1<ace.user_data.GameKeyDefinition.cData> _Values",
+                "0x28 System.Collections.Generic.List`1<ace.user_data.GameKeyDefinition.cDispMaskList> _KeyMaskList"
+            ],
+            "funcoes": [
+                "System.Collections.Generic.List`1<ace.user_data.GameKeyDefinition.cData> get_Values()",
+                "System.Void copyFrom()",
+                "System.Void copyValues()",
+                "System.Collections.Generic.List`1<ace.user_data.GameKeyDefinition.cDispMaskList> get_KeyMaskList()",
+                "System.Void .ctor()"
+            ],
+            "nome": "ace.user_data.GameKeyDefinition",
+            "origem": "campo _UserPadPlayerGameKeyDefData de app.GameInputManager",
+            "pais": [
+                "via.UserData",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void Set()",
+                "app.cPlayerGameInput Get()",
+                "app.cPlayerGameInput Address()",
+                "System.Collections.Generic.IEnumerator`1<app.cPlayerGameInput> GetEnumerator()",
+                "System.Void Add()",
+                "System.Void Clear()",
+                "System.Boolean Contains()",
+                "System.Void CopyTo()",
+                "System.Boolean Remove()",
+                "app.cPlayerGameInput get_Item()",
+                "System.Void set_Item()",
+                "System.Int32 IndexOf()",
+                "System.Void Insert()",
+                "System.Void RemoveAt()"
+            ],
+            "nome": "app.cPlayerGameInput[]",
+            "origem": "campo _PadPlayerInput de app.GameInputManager",
+            "pais": [
+                "System.Array",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Boolean success()",
+                "System.Int32 getMaskIdFromFixed()",
+                "System.Void onApplyFromPad()",
+                "System.Void setLStick()",
+                "System.Void .ctor()"
+            ],
+            "nome": "app.cPlayerGameInput",
+            "origem": "campo _EmptyPlayerInput de app.GameInputManager",
+            "pais": [
+                "app.cPlayerGameInputBase",
+                "ace.cGameInput",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void Set()",
+                "app.cUIGameInput Get()",
+                "app.cUIGameInput Address()",
+                "System.Collections.Generic.IEnumerator`1<app.cUIGameInput> GetEnumerator()",
+                "System.Void Add()",
+                "System.Void Clear()",
+                "System.Boolean Contains()",
+                "System.Void CopyTo()",
+                "System.Boolean Remove()",
+                "app.cUIGameInput get_Item()",
+                "System.Void set_Item()",
+                "System.Int32 IndexOf()",
+                "System.Void Insert()",
+                "System.Void RemoveAt()"
+            ],
+            "nome": "app.cUIGameInput[]",
+            "origem": "campo _PadUIInput de app.GameInputManager",
+            "pais": [
+                "System.Array",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void .ctor()",
+                "System.Boolean success()",
+                "System.Boolean isAnyTrigger()",
+                "app.GUIFunc.TYPE convertButtonType()"
+            ],
+            "nome": "app.cUIGameInput",
+            "origem": "campo _EmptyUIInput de app.GameInputManager",
+            "pais": [
+                "ace.cGameInput",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void Set()",
+                "app.cDevelopGameInput Get()",
+                "app.cDevelopGameInput Address()",
+                "System.Collections.Generic.IEnumerator`1<app.cDevelopGameInput> GetEnumerator()",
+                "System.Void Add()",
+                "System.Void Clear()",
+                "System.Boolean Contains()",
+                "System.Void CopyTo()",
+                "System.Boolean Remove()",
+                "app.cDevelopGameInput get_Item()",
+                "System.Void set_Item()",
+                "System.Int32 IndexOf()",
+                "System.Void Insert()",
+                "System.Void RemoveAt()"
+            ],
+            "nome": "app.cDevelopGameInput[]",
+            "origem": "campo _DevelopInput de app.GameInputManager",
+            "pais": [
+                "System.Array",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Boolean success()",
+                "System.Void .ctor()"
+            ],
+            "nome": "app.cDevelopGameInput",
+            "origem": "campo _EmptyDevelopInput de app.GameInputManager",
+            "pais": [
+                "ace.cGameInput",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void Set()",
+                "app.cPcPlayerGameInput Get()",
+                "app.cPcPlayerGameInput Address()",
+                "System.Collections.Generic.IEnumerator`1<app.cPcPlayerGameInput> GetEnumerator()",
+                "System.Void Add()",
+                "System.Void Clear()",
+                "System.Boolean Contains()",
+                "System.Void CopyTo()",
+                "System.Boolean Remove()",
+                "app.cPcPlayerGameInput get_Item()",
+                "System.Void set_Item()",
+                "System.Int32 IndexOf()",
+                "System.Void Insert()",
+                "System.Void RemoveAt()"
+            ],
+            "nome": "app.cPcPlayerGameInput[]",
+            "origem": "campo _MkbPlayerInput de app.GameInputManager",
+            "pais": [
+                "System.Array",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void .ctor()",
+                "System.Boolean success()",
+                "System.Void onApplyFromMouseKeyboard()",
+                "System.Boolean isOn()",
+                "System.Int32 getMaskIdFromFixed()",
+                "System.Void updateInputSimultaneously()"
+            ],
+            "nome": "app.cPcPlayerGameInput",
+            "origem": "campo _EmptyMkbPlayerInput de app.GameInputManager",
+            "pais": [
+                "app.cPlayerGameInputBase",
+                "ace.cGameInput",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void Set()",
+                "app.cPcUIGameInput Get()",
+                "app.cPcUIGameInput Address()",
+                "System.Collections.Generic.IEnumerator`1<app.cPcUIGameInput> GetEnumerator()",
+                "System.Void Add()",
+                "System.Void Clear()",
+                "System.Boolean Contains()",
+                "System.Void CopyTo()",
+                "System.Boolean Remove()",
+                "app.cPcUIGameInput get_Item()",
+                "System.Void set_Item()",
+                "System.Int32 IndexOf()",
+                "System.Void Insert()",
+                "System.Void RemoveAt()"
+            ],
+            "nome": "app.cPcUIGameInput[]",
+            "origem": "campo _MkbUIInput de app.GameInputManager",
+            "pais": [
+                "System.Array",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x1A0 System.Boolean _FlexibleSealed"
+            ],
+            "funcoes": [
+                "System.Boolean get_FlexibleSealed()",
+                "System.Void .ctor()",
+                "System.Boolean success()",
+                "System.Void setFlexibleSeal()",
+                "System.Boolean isAnyTriggerMouse()",
+                "System.Boolean isAnyTriggerMouseIgnoreMove()",
+                "System.Boolean isAnyTriggerKeyboard()",
+                "System.Boolean isFunctionKeyTrigger()",
+                "app.GUIFunc.TYPE convertButtonType()"
+            ],
+            "nome": "app.cPcUIGameInput",
+            "origem": "campo _EmptyMkbUIInput de app.GameInputManager",
+            "pais": [
+                "ace.cGameInput",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void Set()",
+                "ace.BIT_FLAG Get()",
+                "ace.BIT_FLAG Address()",
+                "System.Collections.Generic.IEnumerator`1<ace.BIT_FLAG> GetEnumerator()",
+                "System.Void Add()",
+                "System.Void Clear()",
+                "System.Boolean Contains()",
+                "System.Void CopyTo()",
+                "System.Boolean Remove()",
+                "ace.BIT_FLAG get_Item()",
+                "System.Void set_Item()",
+                "System.Int32 IndexOf()",
+                "System.Void Insert()",
+                "System.Void RemoveAt()"
+            ],
+            "nome": "ace.BIT_FLAG[]",
+            "origem": "campo _PlayerButtonMaskFlagStore de app.GameInputManager",
+            "pais": [
+                "System.Array",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void Set()",
+                "app.GameInputManager.UPDATE_INFO Get()",
+                "app.GameInputManager.UPDATE_INFO Address()"
+            ],
+            "nome": "app.GameInputManager.UPDATE_INFO[,]",
+            "origem": "campo _GameInputUpdateList de app.GameInputManager",
+            "pais": [
+                "System.Array",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x10 System.Int32 value__",
+                "0x10 app.InputDef.DEVICE_STYLE PAD (estatico = 0)",
+                "0x10 app.InputDef.DEVICE_STYLE MOUSE_KEYBOARD (estatico = 1)",
+                "0x10 app.InputDef.DEVICE_STYLE MONGOLIAN (estatico = 2)"
+            ],
+            "funcoes": null,
+            "nome": "app.InputDef.DEVICE_STYLE",
+            "origem": "campo _DeviceStyle de app.GameInputManager",
+            "pais": [
+                "System.Enum",
+                "System.ValueType",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x10 System.ValueTuple`2[[System.UInt32, System.Private.CoreLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.UInt32, System.Private.CoreLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]][] _GroupAccessTable",
+                "0x18 ace.cContinueFlag.GROUP[] _Groups"
+            ],
+            "funcoes": [
+                "System.Void .ctor()",
+                "System.Void .ctor()",
+                "System.Void updateReady()",
+                "System.Void updateExecute()",
+                "System.Boolean check()",
+                "System.Boolean on()",
+                "System.Boolean off()",
+                "System.Void setUpdateFunc()",
+                "System.Void setUpdateFuncAndExecute()",
+                "System.Void clearUpdateFunc()"
+            ],
+            "nome": "ace.cContinueFlag",
+            "origem": "campo _UpdateNoInputTime de app.GameInputManager",
+            "pais": [
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x50 System.UInt32 MAX_PAD_NUM (estatico = 4)",
+                "0x50 System.Single PAD_DEFAULT_REPEAT_BEGIN (estatico = 500.0)",
+                "0x50 System.Single PAD_DEFAULT_REPEAT_CYQLE (estatico = 100.0)",
+                "0x50 System.Single PAD_DEFAULT_STICK_THRESHOLD (estatico = 0.20000000298023)",
+                "0x50 ace.cPadInfo _EmptyPadInfo (estatico)",
+                "0x58 ace.cSafeEvent _BeforeStartAssignEvent (estatico)",
+                "0x60 ace.cSafeEventHandler _BeforeStartAssignEventHandler (estatico)",
+                "0x50 ace.cPadInfo[] _OriginalPadInfo",
+                "0x70 System.Int32 _MainPadIndex",
+                "0x58 ace.cPadInfo _MainPad",
+                "0x60 via.threading.SimpleReaderWriterLock _RWLock",
+                "0x68 ace.cGamePlayerAssignInitializer _GamePlayerAssignInitializer"
+            ],
+            "funcoes": [
+                "System.Single get_PadDefaultStickThreshold()",
+                "System.Void set_PadDefaultStickThreshold()",
+                "System.Single get_PadRepeatStartTime()",
+                "System.Void set_PadRepeatStartTime()",
+                "System.Single get_PadRepeatTime()",
+                "System.Void set_PadRepeatTime()",
+                "ace.cPadInfo get_MainPad()",
+                "System.Int32 get_MainPadIndex()",
+                "System.Void awakeGA()",
+                "System.Void start()",
+                "System.Void update()",
+                "System.Void destroyGA()",
+                "System.Void setBeforeStartAssignEvent()",
+                "System.Boolean isPadEnabled()",
+                "ace.cPadInfo getPadInfo()",
+                "System.Void onDeviceAssigned()",
+                "System.Void onDeviceUnassigned()",
+                "System.Void .ctor()",
+                "System.Void .cctor()"
+            ],
+            "nome": "ace.PadManager",
+            "origem": "nome achado no executavel",
+            "pais": [
+                "ace.GAElement`1<ace.PadManager>",
+                "ace.GAElementBase",
+                "via.Behavior",
+                "via.Component",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x108 ace.cPadInfo.KEY_INFO _Key",
+                "0x10 via.vec2 _LStick",
+                "0x20 via.vec2 _RStick",
+                "0xF8 System.Single _LStickMagnitude",
+                "0xD8 System.Single _RStickMagnitude",
+                "0xE0 System.Single _LTrigger",
+                "0xE8 System.Single _RTrigger",
+                "0xC0 System.Single[] _OnTimer",
+                "0xC8 via.hid.GamePadDevice _Device",
+                "0x100 via.hid.GamePlayerIndex _GamePlayerIndex",
+                "0x30 via.vec3 _AngularVelocity",
+                "0xF0 System.Single _AngularVelocityMagnitude",
+                "0x40 via.vec3 _Acceleration",
+                "0x11C System.Single _AccelerationMagnitude",
+                "0x50 via.Quaternion _Orientation",
+                "0xDC System.Single _OrientationMagnitude",
+                "0x60 via.vec3 _AngularVelocityRight",
+                "0xE4 System.Single _AngularVelocityMagnitudeRight",
+                "0x70 via.vec3 _AccelerationRight",
+                "0xEC System.Single _AccelerationMagnitudeRight",
+                "0x80 via.Quaternion _OrientationRight",
+                "0xF4 System.Single _OrientationMagnitudeRight",
+                "0x90 via.vec3 _AngularVelocityLeft",
+                "0xFC System.Single _AngularVelocityMagnitudeLeft",
+                "0xA0 via.vec3 _AccelerationLeft",
+                "0x104 System.Single _AccelerationMagnitudeLeft",
+                "0xB0 via.Quaternion _OrientationLeft",
+                "0x118 System.Single _OrientationMagnitudeLeft",
+                "0xD0 ace.cPadInfo.VibrationJob _Vibration"
+            ],
+            "funcoes": [
+                "ace.ACE_PAD_KEY.BITS get_KeyOn()",
+                "ace.ACE_PAD_KEY.BITS get_KeyTrigger()",
+                "ace.ACE_PAD_KEY.BITS get_KeyRelease()",
+                "ace.ACE_PAD_KEY.BITS get_KeyRepeat()",
+                "via.vec2 get_LStick()",
+                "via.vec2 get_RStick()",
+                "System.Single get_LStickMagnitude()",
+                "System.Single get_RStickMagnitude()",
+                "System.Single get_LTrigger()",
+                "System.Single get_RTrigger()",
+                "System.Single[] get_OnTimer()",
+                "via.vec3 get_AngularVelocity()",
+                "System.Single get_AngularVelocityMagnitude()",
+                "via.vec3 get_Acceleration()",
+                "System.Single get_AccelerationMagnitude()",
+                "via.Quaternion get_Orientation()",
+                "System.Single get_OrientationMagnitude()",
+                "via.vec3 get_AngularVelocityRight()",
+                "System.Single get_AngularVelocityMagnitudeRight()",
+                "via.vec3 get_AccelerationRight()",
+                "System.Single get_AccelerationMagnitudeRight()",
+                "via.Quaternion get_OrientationRight()",
+                "System.Single get_OrientationMagnitudeRight()",
+                "via.vec3 get_AngularVelocityLeft()",
+                "System.Single get_AngularVelocityMagnitudeLeft()",
+                "via.vec3 get_AccelerationLeft()",
+                "System.Single get_AccelerationMagnitudeLeft()",
+                "via.Quaternion get_OrientationLeft()",
+                "System.Single get_OrientationMagnitudeLeft()",
+                "System.Boolean get_IsValid()",
+                "via.UserIndex get_UserIndex()",
+                "via.hid.GamePlayerIndex get_GamePlayerIndex()",
+                "System.UInt32 get_VibrationWaveIndex()",
+                "via.hid.DeviceType get_DeviceType()",
+                "via.hid.DeviceKindDetails get_DeviceKindDetails()",
+                "System.Boolean get_DualSense()",
+                "System.Void setDevice()",
+                "System.Boolean isUsingThisDevice()",
+                "System.Void setVibrationWaveIndex()",
+                "System.Void resetVibrationWaveIndex()",
+                "System.Void setAdaptiveTriggerFeedback()",
+                "System.Void setAdaptiveTriggerFeedback()",
+                "System.Void setAdaptiveTriggerFeedbackLeftTrigger()",
+                "System.Void setAdaptiveTriggerFeedbackRightTrigger()",
+                "System.Void resetAdaptiveTriggerFeedback()",
+                "System.Void updateInputFromDevice()",
+                "System.Void copy()",
+                "System.Void clear()",
+                "System.Void clearKey()",
+                "System.Void clearTrigger()",
+                "System.Void clearKey()",
+                "System.Void resetState()",
+                "System.Void outConvertKey()",
+                "System.Boolean isExcludePlatform()",
+                "System.Void updateVibration()",
+                "System.Void addVibrationRequest()",
+                "System.Void stopVibration()",
+                "System.Void .ctor()"
+            ],
+            "nome": "ace.cPadInfo",
+            "origem": "campo _EmptyPadInfo de ace.PadManager",
+            "pais": [
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void Set()",
+                "ace.cPadInfo Get()",
+                "ace.cPadInfo Address()",
+                "System.Collections.Generic.IEnumerator`1<ace.cPadInfo> GetEnumerator()",
+                "System.Void Add()",
+                "System.Void Clear()",
+                "System.Boolean Contains()",
+                "System.Void CopyTo()",
+                "System.Boolean Remove()",
+                "ace.cPadInfo get_Item()",
+                "System.Void set_Item()",
+                "System.Int32 IndexOf()",
+                "System.Void Insert()",
+                "System.Void RemoveAt()"
+            ],
+            "nome": "ace.cPadInfo[]",
+            "origem": "campo _OriginalPadInfo de ace.PadManager",
+            "pais": [
+                "System.Array",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x50 System.UInt32 MAX_DEVICE_NUM (estatico = 1)",
+                "0x50 System.Single MKB_DEFAULT_REPEAT_BEGIN (estatico = 500.0)",
+                "0x50 System.Single MKB_DEFAULT_REPEAT_CYCLE (estatico = 100.0)",
+                "0x50 ace.Bitset`1<System.UInt32> _MouseEnable",
+                "0x58 ace.Bitset`1<System.UInt32> _KeyboardEnable",
+                "0x60 ace.cMouseKeyboardInfo[] _OriginalMouseKeyboardInfo",
+                "0x70 System.Single <MouseSensitivityOnCS>k__BackingField",
+                "0x78 System.Boolean <ReverseMouseClick>k__BackingField",
+                "0x68 ace.cMouseKeyboardInfo _EmptyKeyboardInfo",
+                "0x74 System.Int32 _MainKeyboardIndex"
+            ],
+            "funcoes": [
+                "ace.cMouseKeyboardInfo get_MainMouseKeyboard()",
+                "System.Int32 get_MainMouseKeyboardIndex()",
+                "System.Single get_MkbRepeatStartTime()",
+                "System.Void set_MkbRepeatStartTime()",
+                "System.Single get_MkbRepeatTime()",
+                "System.Void set_MkbRepeatTime()",
+                "System.Single get_MouseSensitivityOnCS()",
+                "System.Void set_MouseSensitivityOnCS()",
+                "System.Boolean get_ReverseMouseClick()",
+                "System.Void set_ReverseMouseClick()",
+                "System.Void awakeGA()",
+                "System.Void update()",
+                "System.Boolean isMouseEnable()",
+                "System.Boolean isKeyboardEnable()",
+                "ace.cMouseKeyboardInfo getMouseKeyboardInfo()",
+                "System.Void setMouseSensitivityOnCS()",
+                "System.Void .ctor()"
+            ],
+            "nome": "ace.MouseKeyboardManager",
+            "origem": "nome achado no executavel",
+            "pais": [
+                "ace.GAElement`1<ace.MouseKeyboardManager>",
+                "ace.GAElementBase",
+                "via.Behavior",
+                "via.Component",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void .ctor()",
+                "System.Void .ctor()",
+                "System.Void .ctor()",
+                "ace.Bitset`1<System.UInt32> copy()",
+                "System.Boolean op_Equality()",
+                "System.Boolean op_Inequality()",
+                "System.Boolean Equals()",
+                "System.Int32 GetHashCode()",
+                "ace.Bitset`1<System.UInt32> op_BitwiseAnd()",
+                "ace.Bitset`1<System.UInt32> op_BitwiseOr()"
+            ],
+            "nome": "ace.Bitset`1<System.UInt32>",
+            "origem": "campo _MouseEnable de ace.MouseKeyboardManager",
+            "pais": [
+                "ace.Bitset",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void Set()",
+                "ace.cMouseKeyboardInfo Get()",
+                "ace.cMouseKeyboardInfo Address()",
+                "System.Collections.Generic.IEnumerator`1<ace.cMouseKeyboardInfo> GetEnumerator()",
+                "System.Void Add()",
+                "System.Void Clear()",
+                "System.Boolean Contains()",
+                "System.Void CopyTo()",
+                "System.Boolean Remove()",
+                "ace.cMouseKeyboardInfo get_Item()",
+                "System.Void set_Item()",
+                "System.Int32 IndexOf()",
+                "System.Void Insert()",
+                "System.Void RemoveAt()"
+            ],
+            "nome": "ace.cMouseKeyboardInfo[]",
+            "origem": "campo _OriginalMouseKeyboardInfo de ace.MouseKeyboardManager",
+            "pais": [
+                "System.Array",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x10 System.Tuple`2[[via.hid.MouseButton, System.Private.CoreLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ace.ACE_MKB_KEY.INDEX, System.Private.CoreLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]][] MOUSE_KEY_MAP (estatico)",
+                "0x18 System.Tuple`2[[via.hid.MouseButton, System.Private.CoreLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ace.ACE_MKB_KEY.INDEX, System.Private.CoreLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]][] MOUSE_KEY_MAP_REVERSE (estatico)",
+                "0x20 System.Tuple`2[[via.hid.KeyboardKey, System.Private.CoreLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ace.ACE_MKB_KEY.INDEX, System.Private.CoreLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]][] KEYBOARD_KEY_MAP (estatico)",
+                "0x28 via.Size BASE_SCREEN_SIZE (estatico)",
+                "0x10 ace.cMouseKeyboardInfo.KEY_INFO[] _Keys",
+                "0x18 via.Point _MousePos",
+                "0x20 via.Point _MouseOldPos",
+                "0x28 via.Point _MouseMovePos",
+                "0x30 via.Point _MouseDeltaPos",
+                "0x38 via.Point _MouseRawDeltaPos",
+                "0x40 System.Single _MouseWheel",
+                "0x44 System.Single _MouseWheelDelta",
+                "0x48 System.Boolean _ForceUpdateMousePos"
+            ],
+            "funcoes": [
+                "via.Point get_MousePos()",
+                "via.Point get_MouseOldPos()",
+                "via.Point get_MouseMovePos()",
+                "via.Point get_MouseDeltaPos()",
+                "via.Point get_MouseRawDeltaPos()",
+                "System.Single get_MouseWheel()",
+                "System.Single get_MouseWheelDelta()",
+                "System.Void clear()",
+                "System.Void applyMergeMouse()",
+                "System.Void applyMergeKeyboard()",
+                "System.Boolean isOn()",
+                "System.Boolean isRelease()",
+                "System.Boolean isRepeat()",
+                "System.Boolean isTrigger()",
+                "System.Void forceUpdateMousePos()",
+                "System.Void setMousePos()",
+                "System.Void .ctor()",
+                "System.Void .cctor()"
+            ],
+            "nome": "ace.cMouseKeyboardInfo",
+            "origem": "campo _EmptyKeyboardInfo de ace.MouseKeyboardManager",
+            "pais": [
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void awakeGA()",
+                "System.Void .ctor()"
+            ],
+            "nome": "app.AppMouseKeyboardManager",
+            "origem": "nome achado no executavel",
+            "pais": [
+                "ace.MouseKeyboardManager",
+                "ace.GAElement`1<ace.MouseKeyboardManager>",
+                "ace.GAElementBase",
+                "via.Behavior",
+                "via.Component",
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void changePlayerPadKeyData()",
+                "System.Void changePlayerMkbKeyData()",
+                "System.Void clearPlayerMkbKeyData()",
+                "System.Void changeGUIPadKeyData()",
+                "System.Void clearGUIPadKeyData()",
+                "System.Void changeGUIMkbKeyData()",
+                "System.Void clearGUIMkbKeyData()",
+                "System.Single getOnTimerTime()"
+            ],
+            "nome": "app.GameInputUtil",
+            "origem": "nome achado no executavel",
+            "pais": [
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x10 app.cNpcInputController.cNpcCamera <Camera>k__BackingField",
+                "0x18 app.cNpcInputController.cNpcStick <LStick>k__BackingField"
+            ],
+            "funcoes": [
+                "app.cNpcInputController.cNpcCamera get_Camera()",
+                "System.Void set_Camera()",
+                "app.cNpcInputController.cNpcStick get_LStick()",
+                "System.Void set_LStick()",
+                "System.Void setup()",
+                "System.Void clear_update()",
+                "System.Void clear_lateUpdate()",
+                "System.Void update()",
+                "System.Void lateUpdate()",
+                "System.Void .ctor()"
+            ],
+            "nome": "app.cNpcInputController",
+            "origem": "nome achado no executavel",
+            "pais": [
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x30 System.Nullable`1<via.vec3> _SightPos",
+                "0x10 via.vec3 _LookAtDir",
+                "0x20 via.vec3 _EyePos",
+                "0x81 System.Boolean _IsAimIn",
+                "0x80 System.Boolean _UseDamping",
+                "0x50 System.Nullable`1<via.vec3> _RequestSightPos",
+                "0x70 ace.cDampingRadianVec2 _TargetRotationRad",
+                "0x78 app.HunterCharacter _Character"
+            ],
+            "funcoes": [
+                "System.Nullable`1<via.vec3> get_SightPos()",
+                "via.vec3 get_LookAtDir()",
+                "via.vec3 get_EyePos()",
+                "System.Boolean get_IsAimIn()",
+                "System.Nullable`1<via.vec3> get_RequestSightPos()",
+                "app.cNpcInputController.cNpcCamera.cParam get_Param()",
+                "System.Void setup()",
+                "System.Void clear()",
+                "System.Void setupEyePos()",
+                "System.Void requestAim()",
+                "via.vec3 calculateLookAtDir()",
+                "System.Void update()",
+                "System.Void .ctor()"
+            ],
+            "nome": "app.cNpcInputController.cNpcCamera",
+            "origem": "campo <Camera>k__BackingField de app.cNpcInputController",
+            "pais": [
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x10 via.vec2 _StickVec",
+                "0x50 System.Single _Magnitude",
+                "0x20 System.Nullable`1<via.vec3> _RequestWorldVec",
+                "0x54 System.Single _RequestMagnitude",
+                "0x40 app.cCameraAdditionalOperator.cDampingVec2 _TargetStickVec",
+                "0x48 app.HunterCharacter _Character"
+            ],
+            "funcoes": [
+                "via.vec2 get_StickVec()",
+                "System.Single get_Magnitude()",
+                "app.cNpcInputController.cNpcStick.cParam get_Param()",
+                "System.Void setup()",
+                "System.Void clear()",
+                "System.Void setWorldVec()",
+                "System.Void setWorldVec_Warp()",
+                "System.Void setDir4()",
+                "System.Void setCameraDir4()",
+                "System.Void update()",
+                "System.Void .ctor()"
+            ],
+            "nome": "app.cNpcInputController.cNpcStick",
+            "origem": "campo <LStick>k__BackingField de app.cNpcInputController",
+            "pais": [
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "via.hid.GamePadDevice getConnectingDevices()",
+                "System.UInt32 getConnectingDevicesCount()",
+                "via.hid.GamePadDevice get_NullDevice()",
+                "via.hid.GamePadDevice get_Device()",
+                "via.hid.GamePadDevice get_MergedDevice()",
+                "via.hid.NpadDevice[] get_NpadDevices()",
+                "via.hid.GamePad.WrappedArrayContainer_ConnectingDevices get_ConnectingDevices()",
+                "via.hid.GamePadButton get_EnterButton()",
+                "System.Void set_EnterButton()",
+                "via.hid.GamePadButton get_CancelButton()",
+                "System.Boolean get_ApplySystemEnterButtonSetting()",
+                "System.Boolean get_ForceFeedbackEnable()",
+                "System.Void set_ForceFeedbackEnable()",
+                "System.Single get_RepeatStartTime()",
+                "System.Void set_RepeatStartTime()",
+                "System.Single get_RepeatTime()",
+                "System.Void set_RepeatTime()",
+                "System.Single get_EmuButtonThreshold()",
+                "System.Void set_EmuButtonThreshold()",
+                "via.hid.GamePadEmuButtonThresholdType get_EmuButtonThresholdType()",
+                "System.Void set_EmuButtonThresholdType()",
+                "via.hid.GamePadDevice get_LastInputDevice()",
+                "via.UserIndex get_LastInputUserIndex()",
+                "System.UInt64 get_LastInputDeviceUniqueId()",
+                "System.Boolean get_ApplyTriggerButtonInHorizontalMode()",
+                "System.Void set_ApplyTriggerButtonInHorizontalMode()",
+                "System.UInt32 get_SupportedNpadStyleBits()",
+                "System.Void set_SupportedNpadStyleBits()",
+                "System.UInt32 get_SupportedNpadIdBits()",
+                "System.Void set_SupportedNpadIdBits()",
+                "via.hid.NpadStyle get_SupportedNpadStyleFlags()",
+                "System.Void set_SupportedNpadStyleFlags()",
+                "via.hid.NpadId get_SupportedNpadIdFlags()",
+                "System.Void set_SupportedNpadIdFlags()",
+                "via.hid.NpadJoyHoldType get_NpadJoyHoldType()",
+                "System.Void set_NpadJoyHoldType()",
+                "via.hid.NpadHandheldActivationMode get_NpadHandheldActivationMode()",
+                "System.Void set_NpadHandheldActivationMode()",
+                "void__via_hid_GamePadDevice___ get_GamePadConnectedEvent()",
+                "System.Void set_GamePadConnectedEvent()",
+                "void__via_hid_GamePadDevice___ get_GamePadDisconnectedEvent()",
+                "System.Void set_GamePadDisconnectedEvent()"
+            ],
+            "nome": "via.hid.GamePad",
+            "origem": "nome achado no executavel",
+            "pais": [
+                "System.Object"
+            ]
+        },
+        {
+            "campos": [
+                "0x10 ace.Bitset _Flags",
+                "0x18 ace.Bitset _KeepFlag",
+                "0x20 ace.Bitset _EventFlag",
+                "0x28 ace.cSafeEvent`1[[System.Boolean, application, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]][] _OnUpdate"
+            ],
+            "funcoes": [
+                "System.Void .ctor()",
+                "System.Void updateReady()",
+                "System.Void updateExecute()",
+                "System.Boolean check()",
+                "System.Boolean on()",
+                "System.Boolean off()",
+                "ace.cSafeEventHandler setUpdateFunc()",
+                "ace.cSafeEventHandler setUpdateFuncAndExecute()",
+                "ace.cSafeEventHandler addUpdateFunc()"
+            ],
+            "nome": "ace.cSafeContinueFlag",
+            "origem": "cacador._HunterBTableCommandFlag",
+            "pais": [
+                "System.Object"
+            ]
+        },
+        {
+            "campos": null,
+            "funcoes": [
+                "System.Void Set()",
+                "ace.cSafeEvent`1<System.Boolean> Get()",
+                "ace.cSafeEvent`1<System.Boolean> Address()",
+                "System.Collections.Generic.IEnumerator`1<ace.cSafeEvent`1<System.Boolean>> GetEnumerator()",
+                "System.Void Add()",
+                "System.Void Clear()",
+                "System.Boolean Contains()",
+                "System.Void CopyTo()",
+                "System.Boolean Remove()",
+                "ace.cSafeEvent`1<System.Boolean> get_Item()",
+                "System.Void set_Item()",
+                "System.Int32 IndexOf()",
+                "System.Void Insert()",
+                "System.Void RemoveAt()"
+            ],
+            "nome": "ace.cSafeEvent`1[[System.Boolean, application, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]][]",
+            "origem": "campo _OnUpdate de ace.cSafeContinueFlag",
+            "pais": [
+                "System.Array",
+                "System.Object"
+            ]
+        }
+    ],
+    "gerenciadores": [
+        {
+            "campos_ao_vivo": [
+                "_Setting = app.user_data.GameInputManagerSetting",
+                "_UserPadPlayerGameKeyDefData = ace.user_data.GameKeyDefinition",
+                "_UserPadUIGameKeyDefData = ace.user_data.GameKeyDefinition",
+                "_UserMkbPlayerGameKeyDefData = ace.user_data.GameKeyDefinition",
+                "_UserMkbUIGameKeyDefData = ace.user_data.GameKeyDefinition",
+                "_PadPlayerInput = app.cPlayerGameInput[]",
+                "_EmptyPlayerInput = app.cPlayerGameInput",
+                "_PadUIInput = app.cUIGameInput[]",
+                "_EmptyUIInput = app.cUIGameInput",
+                "_DevelopInput = app.cDevelopGameInput[]",
+                "_EmptyDevelopInput = app.cDevelopGameInput",
+                "_MkbPlayerInput = app.cPcPlayerGameInput[]",
+                "_EmptyMkbPlayerInput = app.cPcPlayerGameInput",
+                "_MkbUIInput = app.cPcUIGameInput[]",
+                "_EmptyMkbUIInput = app.cPcUIGameInput",
+                "_PlayerButtonMaskFlagStore = ace.BIT_FLAG[]",
+                "_GameInputUpdateList = app.GameInputManager.UPDATE_INFO[,]",
+                "_DeviceStyle = number",
+                "_PlayerButtonMaskBit = number",
+                "_MouseSensitivityHorizontal = number",
+                "_MouseSensitivityVertical = number",
+                "_IsReversePlayerMoveCameraStick = boolean",
+                "TO_NO_INPUT_TIME = number",
+                "TO_NO_INPUT_DISCONNECT_TIME = number",
+                "_NoInputTimer = number",
+                "_UpdateNoInputTime = ace.cContinueFlag"
+            ],
+            "nome": "app.GameInputManager"
+        },
+        {
+            "campos_ao_vivo": [
+                "MAX_PAD_NUM = number",
+                "PAD_DEFAULT_REPEAT_BEGIN = number",
+                "PAD_DEFAULT_REPEAT_CYQLE = number",
+                "PAD_DEFAULT_STICK_THRESHOLD = number",
+                "_EmptyPadInfo = ace.cPadInfo",
+                "_BeforeStartAssignEvent = ace.cSafeEvent",
+                "_BeforeStartAssignEventHandler = nil",
+                "_OriginalPadInfo = ace.cPadInfo[]",
+                "_MainPadIndex = number",
+                "_MainPad = ace.cPadInfo",
+                "_RWLock = via.threading.SimpleReaderWriterLock",
+                "_GamePlayerAssignInitializer = ace.cGamePlayerAssignInitializer"
+            ],
+            "nome": "ace.PadManager"
+        },
+        {
+            "campos_ao_vivo": null,
+            "nome": "ace.MouseKeyboardManager"
+        },
+        {
+            "campos_ao_vivo": null,
+            "nome": "app.AppMouseKeyboardManager"
+        }
+    ],
+    "ligadas_ao_jogador": [
+        {
+            "campos": null,
+            "de": "informacoes do jogador",
+            "tipo": "app.cPlayerManageInfo"
+        },
+        {
+            "campos": [
+                "_HunterBTableCommandFlag = ace.cSafeContinueFlag"
+            ],
+            "de": "cacador",
+            "tipo": "app.HunterCharacter"
+        }
+    ],
+    "nao_achadas": 201
+}

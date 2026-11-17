@@ -1,0 +1,103 @@
+{
+    "aprendidos_com_outros": 4,
+    "defesas": null,
+    "monstros": [
+        {
+            "animacoes": 57,
+            "cobertura": 95,
+            "golpes_em_voce_sessao": 12,
+            "id": "19",
+            "medicoes": 791,
+            "nome": "Chatacabra",
+            "previstos_sessao": 11
+        },
+        {
+            "animacoes": 8,
+            "cobertura": 0,
+            "id": "29",
+            "medicoes": 8,
+            "nome": "Hirabami"
+        },
+        {
+            "animacoes": 9,
+            "cobertura": 0,
+            "id": "13:t",
+            "medicoes": 9,
+            "nome": "Tempered Mizutsune"
+        },
+        {
+            "animacoes": 46,
+            "cobertura": 66,
+            "id": "6:t",
+            "medicoes": 161,
+            "nome": "Tempered Congalala"
+        },
+        {
+            "animacoes": 4,
+            "cobertura": 0,
+            "id": "4",
+            "medicoes": 6,
+            "nome": "Yian Kut-Ku"
+        },
+        {
+            "animacoes": 79,
+            "cobertura": 61,
+            "id": "26",
+            "medicoes": 219
+        },
+        {
+            "animacoes": 11,
+            "cobertura": 0,
+            "id": "16",
+            "medicoes": 11,
+            "nome": "Doshaguma"
+        },
+        {
+            "animacoes": 62,
+            "cobertura": 13,
+            "id": "1:t",
+            "medicoes": 86,
+            "nome": "Tempered Rathalos"
+        },
+        {
+            "animacoes": 58,
+            "cobertura": 66,
+            "id": "20",
+            "medicoes": 174,
+            "nome": "Quematrice"
+        },
+        {
+            "animacoes": 2,
+            "cobertura": 0,
+            "id": "23",
+            "medicoes": 2,
+            "nome": "Rey Dau"
+        },
+        {
+            "animacoes": 72,
+            "cobertura": 44,
+            "id": "8:t",
+            "medicoes": 169,
+            "nome": "Tempered Lagiacrus"
+        }
+    ],
+    "prints": [
+        "== Defesa Automatica v0.55 ==",
+        "Arma: Long Sword (foresight > esquiva) - sacada: true - defesa: parada: leitura do SS+ISS (so lendo os seus apertos) - jogadores: 1 - Guard Up: sim - M4: comandos 26",
+        "Tempos (ms antes do golpe): Foresight Slash 120 - esquiva 150 - ls_janela_combo_ms 2300 - ls_bloqueio_ms 400",
+        "Long Sword: em combo = false - ultimo golpe seu ha 12.0s (janela 2300 ms) - sua animacao 20:0 - ataques aprendidos 45 - toques M5 38, M2 41",
+        "Long Sword: bloqueio dos seus botoes na animacao atual 550 ms - aprendido em 16 animacoes (maior 850 ms)",
+        "Leitura do SS+ISS: ligada - 17 leituras salvas nesta sessao - ultima: aviso_lanca_prints/ss_iss_2026-11-14_15-00-31_17.json - sem contra-ataque do ISS - 361 quadros",
+        "Vida: 148 - ultimo dano ha 249.2s",
+        "Ultimas defesas (nova primeiro): defesa - ms antes do golpe - sua animacao antes -> 0,25s depois - resultado",
+        "   (nenhuma ainda)",
+        "Ultima decisao: -",
+        "Ultimo resultado: -",
+        "Monstro: Chatacabra (19) - 5.7 m - animacao 50:204",
+        "Conhecimento deste monstro: 57 animacoes, 791 medicoes - cobertura 95% - previstos nesta sessao: 11 de 12",
+        "Conhecimento (todos): 11 monstros, 408 animacoes, 1636 medicoes - previstos nesta sessao: 11 de 12 - ultimo erro: 25 ms - aprendidos no seu Palico: 4",
+        "Mensagem: Leitura do SS+ISS salva: aviso_lanca_prints/ss_iss_2026-11-14_15-00-31_17.json"
+    ],
+    "salvo_as": "2026-11-14 15:00:41",
+    "versao_mod": "0.55"
+}

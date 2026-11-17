@@ -1,0 +1,85 @@
+
+### Lista Completa e Atualizada (34 Monstros Base + Variações)
+
+1. Ajarakan - 61%
+2. Tempered Ajarakan - 0%
+3. Arkveld - 0%
+4. Guardian Arkveld - 0%
+5. Tempered Arkveld - 21%
+6. Arch-tempered Arkveld - 68%
+7. Balahara - 0%
+8. Tempered Balahara - 0%
+9. Blangonga - 0%
+10. Tempered Blangonga - 0%
+11. Chatacabra - 98%
+12. Tempered Chatacabra - 0%
+13. Congalala - 45%
+14. Tempered Congalala - 66%
+15. Doshaguma - 48%
+16. Guardian Doshaguma - 55%
+17. Tempered Doshaguma - 0%
+18. Tempered Guardian Doshaguma - 83%
+19. Gogmazios - 0%
+20. Gore Magala - 0%
+21. Tempered Gore Magala - 65%
+22. Gravios - 0%
+23. Tempered Gravios - 0%
+24. Guardian Ebony Odogaron - 73%
+25. Tempered Guardian Ebony Odogaron - 82%
+26. Guardian Fulgur Anjanath - 54%
+27. Tempered Guardian Fulgur Anjanath - 82%
+28. Gypceros - 0%
+29. Tempered Gypceros - 0%
+30. Hirabami - 0%
+31. Tempered Hirabami - 69%
+32. Jin Dahaad - 0%
+33. Tempered Jin Dahaad - 0%
+34. Arch-tempered Jin Dahaad - 0%
+35. Lagiacrus - 0%
+36. Tempered Lagiacrus - 95%
+37. Lala Barina - 0%
+38. Tempered Lala Barina - 81%
+39. Mizutsune - 0%
+40. Tempered Mizutsune - 72%
+41. Nerscylla - 0%
+42. Tempered Nerscylla - 0%
+43. Nerscylla Clone - 39%
+44. Nu Udra - 0%
+45. Tempered Nu Udra - 78%
+46. Arch-tempered Nu Udra - 0%
+47. Omega Planetes - 89%
+48. Savage Omega Planetes - 75%
+49. Quematrice - 71%
+50. Tempered Quematrice - 47%
+51. Rathalos - 31%
+52. Guardian Rathalos - 78%
+53. Tempered Rathalos - 13%
+54. Tempered Guardian Rathalos - 67%
+55. Rathian - 0%
+56. Tempered Rathian - 0%
+57. Rey Dau - 0%
+58. Tempered Rey Dau - 0%
+59. Arch-tempered Rey Dau - 0%
+60. Rompopolo - 0%
+61. Tempered Rompopolo - 0%
+62. Seregios - 0%
+63. Tempered Seregios - 0%
+64. Uth Duna - 0%
+65. Tempered Uth Duna - 0%
+66. Arch-tempered Uth Duna - 0%
+67. Xu Wu - 0%
+68. Tempered Xu Wu - 0%
+69. Yian Kut-Ku - 30%
+70. Tempered Yian Kut-Ku - 10%
+71. Zoh Shia - 0%
+
+---
+
+### Notas sobre a Pesquisa e Atualizações
+
+- **Contagem Base:** O jogo possui **34 monstros grandes** no total, sendo 29 do lançamento e 5 adicionados por atualizações gratuitas (Gogmazios, Lagiacrus, Mizutsune, Omega Planetes e Seregios).
+- **Variações "Tempered" e "Arch-tempered":** Quase todos os monstros grandes podem aparecer na versão **Tempered** (com estatísticas elevadas). As exceções são **Zoh Shia**, **Guardian Arkveld** e **Gogmazios**. Já as versões **Arch-tempered** são ainda mais fortes e atualmente existem para: **Arkveld**, **Jin Dahaad**, **Nu Udra**, **Rey Dau** e **Uth Duna**.
+- **Variações Especiais:**
+  - **Nerscylla Clone:** Adicionado na colaboração com *Final Fantasy XIV* (Title Update 3). É uma versão mais agressiva da Nerscylla que dispara lasers.
+  - **Savage Omega Planetes:** É a versão de dificuldade máxima do Omega Planetes, disponível apenas em uma missão de evento permanente para caçadores de HR 100 ou superior.
+- **"Omega Micros"** e **"Guardian Seikret"** foram encontrados na wiki, mas são considerados monstros pequenos ou criaturas de suporte, por isso **não** entraram nesta lista de grandes caçáveis.

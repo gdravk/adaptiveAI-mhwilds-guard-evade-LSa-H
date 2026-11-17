@@ -1,0 +1,80 @@
+{
+    "aprendidos_com_outros": 18,
+    "defesas": [
+        {
+            "animacao_antes": "20:288",
+            "animacao_depois": "20:288",
+            "apertos": 1,
+            "arma": "espada_longa",
+            "defesa": "foresight",
+            "golpe": "espada_longa:1:t:2:191",
+            "hora": "22:16:38",
+            "ms_antes": 102,
+            "resultado": "LEVOU DANO"
+        }
+    ],
+    "monstros": [
+        {
+            "animacoes": 13,
+            "cobertura": 0,
+            "golpes_em_voce_sessao": 2,
+            "id": "16",
+            "medicoes": 20,
+            "nome": "Doshaguma",
+            "previstos_sessao": 0
+        },
+        {
+            "animacoes": 79,
+            "cobertura": 61,
+            "id": "26",
+            "medicoes": 219
+        },
+        {
+            "animacoes": 56,
+            "cobertura": 95,
+            "id": "19",
+            "medicoes": 747,
+            "nome": "Chatacabra"
+        },
+        {
+            "animacoes": 58,
+            "cobertura": 66,
+            "id": "20",
+            "medicoes": 174,
+            "nome": "Quematrice"
+        },
+        {
+            "animacoes": 46,
+            "cobertura": 66,
+            "id": "6:t",
+            "medicoes": 161,
+            "nome": "Tempered Congalala"
+        },
+        {
+            "animacoes": 73,
+            "cobertura": 24,
+            "golpes_em_voce_sessao": 38,
+            "id": "1:t",
+            "medicoes": 121,
+            "nome": "Tempered Rathalos",
+            "previstos_sessao": 1
+        }
+    ],
+    "prints": [
+        "== Defesa Automatica v0.53 ==",
+        "Arma: Long Sword (foresight > esquiva) - sacada: true - defesa: agindo - jogadores: 1 - Guard Up: sim - M4: comandos 26",
+        "Tempos (ms antes do golpe): Foresight Slash 120 - esquiva 150 - ls_janela_combo_ms 2300 - ls_bloqueio_ms 400",
+        "Long Sword: em combo = true - ultimo golpe seu ha 0.0s (janela 2300 ms) - sua animacao 20:286 - ataques aprendidos 44 - toques M5 38, M2 41",
+        "Long Sword: bloqueio dos seus botoes na animacao atual 700 ms - aprendido em 11 animacoes (maior 700 ms)",
+        "Vida: 125 - ultimo dano ha 4.1s",
+        "Ultimas defesas (nova primeiro): defesa - ms antes do golpe - sua animacao antes -> 0,25s depois - resultado",
+        "   Foresight Slash - 102 ms - 20:288 -> 20:288 - LEVOU DANO - apertou 1x",
+        "Ultima decisao: Foresight Slash em 2:191 (nivel 1, angulo 19)",
+        "Ultimo resultado: FALHOU com Foresight Slash (espada_longa:1:t:2:191) -> proxima vez: Foresight Slash",
+        "Monstro: Tempered Rathalos (1:t) - 5.6 m - animacao 2:141",
+        "Conhecimento deste monstro: 73 animacoes, 121 medicoes - cobertura 24% - previstos nesta sessao: 1 de 38",
+        "Conhecimento (todos): 6 monstros, 325 animacoes, 1442 medicoes - previstos nesta sessao: 1 de 40 - ultimo erro: - - aprendidos no Palico ou outros: 18"
+    ],
+    "salvo_as": "2026-11-13 22:18:48",
+    "versao_mod": "0.53"
+}

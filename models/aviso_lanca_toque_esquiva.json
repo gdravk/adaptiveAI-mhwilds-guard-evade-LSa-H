@@ -1,0 +1,4256 @@
+{
+    "quadros": [
+        [
+            {
+                "c": "_OnTrigger",
+                "l": false,
+                "t": 42,
+                "v": true
+            },
+            {
+                "c": "_Success",
+                "l": false,
+                "t": 32,
+                "v": true
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_AnalogValue",
+                "l": false,
+                "t": 42,
+                "v": 1.0
+            },
+            {
+                "c": "_RawOn",
+                "l": false,
+                "t": 24,
+                "v": true
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_Success",
+                "l": false,
+                "t": 51,
+                "v": true
+            },
+            {
+                "c": "_AnalogValue",
+                "l": false,
+                "t": 32,
+                "v": 1.0
+            },
+            {
+                "c": "_Repeat",
+                "l": false,
+                "t": 24,
+                "v": true
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_AnalogValue",
+                "l": false,
+                "t": 51,
+                "v": 1.0
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_Success",
+                "l": false,
+                "t": 25,
+                "v": true
+            },
+            {
+                "c": "_OnTrigger",
+                "l": false,
+                "t": 51,
+                "v": true
+            },
+            {
+                "c": "_On",
+                "l": false,
+                "t": 24,
+                "v": true
+            },
+            {
+                "c": "_RawOn",
+                "l": false,
+                "t": 51,
+                "v": true
+            },
+            {
+                "c": "_Repeat",
+                "l": false,
+                "t": 25,
+                "v": true
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_Success",
+                "l": false,
+                "t": 24,
+                "v": true
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_RawOn",
+                "l": false,
+                "t": 32,
+                "v": true
+            },
+            {
+                "c": "_Repeat",
+                "l": false,
+                "t": 51,
+                "v": true
+            },
+            {
+                "c": "_OnTrigger",
+                "l": false,
+                "t": 24,
+                "v": true
+            },
+            {
+                "c": "_AnalogValue",
+                "l": false,
+                "t": 24,
+                "v": 1.0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_Repeat",
+                "l": false,
+                "t": 32,
+                "v": true
+            },
+            {
+                "c": "_On",
+                "l": false,
+                "t": 32,
+                "v": true
+            },
+            {
+                "c": "_RawOn",
+                "l": false,
+                "t": 42,
+                "v": true
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_On",
+                "l": false,
+                "t": 25,
+                "v": true
+            },
+            {
+                "c": "_On",
+                "l": false,
+                "t": 42,
+                "v": true
+            },
+            {
+                "c": "_On",
+                "l": false,
+                "t": 51,
+                "v": true
+            },
+            {
+                "c": "_AnalogValue",
+                "l": false,
+                "t": 25,
+                "v": 1.0
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_Repeat",
+                "l": false,
+                "t": 42,
+                "v": true
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_OnTrigger",
+                "l": false,
+                "t": 25,
+                "v": true
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            },
+            {
+                "c": "_OnTrigger",
+                "l": false,
+                "t": 32,
+                "v": true
+            },
+            {
+                "c": "_RawOn",
+                "l": false,
+                "t": 25,
+                "v": true
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_Success",
+                "l": false,
+                "t": 42,
+                "v": true
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_AnalogValue",
+                "l": false,
+                "t": 42,
+                "v": 1.0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_RawOn",
+                "l": false,
+                "t": 24,
+                "v": true
+            },
+            {
+                "c": "_On",
+                "l": false,
+                "t": 51,
+                "v": true
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_AnalogValue",
+                "l": false,
+                "t": 24,
+                "v": 1.0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_RawOn",
+                "l": false,
+                "t": 25,
+                "v": true
+            },
+            {
+                "c": "_AnalogValue",
+                "l": false,
+                "t": 51,
+                "v": 1.0
+            },
+            {
+                "c": "_AnalogValue",
+                "l": false,
+                "t": 32,
+                "v": 1.0
+            },
+            {
+                "c": "_On",
+                "l": false,
+                "t": 32,
+                "v": true
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_On",
+                "l": false,
+                "t": 25,
+                "v": true
+            },
+            {
+                "c": "_On",
+                "l": false,
+                "t": 42,
+                "v": true
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_RawOn",
+                "l": false,
+                "t": 32,
+                "v": true
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_RawOn",
+                "l": false,
+                "t": 42,
+                "v": true
+            },
+            {
+                "c": "_On",
+                "l": false,
+                "t": 24,
+                "v": true
+            },
+            {
+                "c": "_RawOn",
+                "l": false,
+                "t": 51,
+                "v": true
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_AnalogValue",
+                "l": false,
+                "t": 25,
+                "v": 1.0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_OffTrigger",
+                "l": false,
+                "t": 25,
+                "v": true
+            },
+            {
+                "c": "_OffTrigger",
+                "l": false,
+                "t": 51,
+                "v": true
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_OffTrigger",
+                "l": false,
+                "t": 32,
+                "v": true
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_OffTrigger",
+                "l": false,
+                "t": 24,
+                "v": true
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            },
+            {
+                "c": "_OffTrigger",
+                "l": false,
+                "t": 42,
+                "v": true
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ],
+        [
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 51,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 32,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 24,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 42,
+                "v": -1
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 25,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 25,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 25,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 24,
+                "v": 0
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 32,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 24,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagFrameCounter",
+                "l": true,
+                "t": 51,
+                "v": -1
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 51,
+                "v": 0
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 32,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LagTimer",
+                "l": true,
+                "t": 42,
+                "v": -0.053639505058527
+            },
+            {
+                "c": "_LastRawTriggerIndex",
+                "l": false,
+                "t": 42,
+                "v": 0
+            }
+        ]
+    ],
+    "segurado": [
+        {
+            "c": "_OnTrigger",
+            "l": false,
+            "t": 42,
+            "v": true
+        },
+        {
+            "c": "_Success",
+            "l": false,
+            "t": 32,
+            "v": true
+        },
+        {
+            "c": "_LagFrameCounter",
+            "l": true,
+            "t": 42,
+            "v": -1
+        },
+        {
+            "c": "_AnalogValue",
+            "l": false,
+            "t": 42,
+            "v": 1.0
+        },
+        {
+            "c": "_RawOn",
+            "l": false,
+            "t": 24,
+            "v": true
+        },
+        {
+            "c": "_LastRawTriggerIndex",
+            "l": false,
+            "t": 32,
+            "v": 0
+        },
+        {
+            "c": "_Success",
+            "l": false,
+            "t": 51,
+            "v": true
+        },
+        {
+            "c": "_AnalogValue",
+            "l": false,
+            "t": 32,
+            "v": 1.0
+        },
+        {
+            "c": "_Repeat",
+            "l": false,
+            "t": 24,
+            "v": true
+        },
+        {
+            "c": "_LastRawTriggerIndex",
+            "l": false,
+            "t": 24,
+            "v": 0
+        },
+        {
+            "c": "_LagTimer",
+            "l": true,
+            "t": 51,
+            "v": -0.053639505058527
+        },
+        {
+            "c": "_AnalogValue",
+            "l": false,
+            "t": 51,
+            "v": 1.0
+        },
+        {
+            "c": "_LagFrameCounter",
+            "l": true,
+            "t": 51,
+            "v": -1
+        },
+        {
+            "c": "_Success",
+            "l": false,
+            "t": 25,
+            "v": true
+        },
+        {
+            "c": "_OnTrigger",
+            "l": false,
+            "t": 51,
+            "v": true
+        },
+        {
+            "c": "_On",
+            "l": false,
+            "t": 24,
+            "v": true
+        },
+        {
+            "c": "_RawOn",
+            "l": false,
+            "t": 51,
+            "v": true
+        },
+        {
+            "c": "_Repeat",
+            "l": false,
+            "t": 25,
+            "v": true
+        },
+        {
+            "c": "_LagTimer",
+            "l": true,
+            "t": 32,
+            "v": -0.053639505058527
+        },
+        {
+            "c": "_Success",
+            "l": false,
+            "t": 24,
+            "v": true
+        },
+        {
+            "c": "_LagFrameCounter",
+            "l": true,
+            "t": 24,
+            "v": -1
+        },
+        {
+            "c": "_RawOn",
+            "l": false,
+            "t": 32,
+            "v": true
+        },
+        {
+            "c": "_Repeat",
+            "l": false,
+            "t": 51,
+            "v": true
+        },
+        {
+            "c": "_OnTrigger",
+            "l": false,
+            "t": 24,
+            "v": true
+        },
+        {
+            "c": "_AnalogValue",
+            "l": false,
+            "t": 24,
+            "v": 1.0
+        },
+        {
+            "c": "_LagTimer",
+            "l": true,
+            "t": 24,
+            "v": -0.053639505058527
+        },
+        {
+            "c": "_Repeat",
+            "l": false,
+            "t": 32,
+            "v": true
+        },
+        {
+            "c": "_On",
+            "l": false,
+            "t": 32,
+            "v": true
+        },
+        {
+            "c": "_RawOn",
+            "l": false,
+            "t": 42,
+            "v": true
+        },
+        {
+            "c": "_LastRawTriggerIndex",
+            "l": false,
+            "t": 51,
+            "v": 0
+        },
+        {
+            "c": "_On",
+            "l": false,
+            "t": 25,
+            "v": true
+        },
+        {
+            "c": "_On",
+            "l": false,
+            "t": 42,
+            "v": true
+        },
+        {
+            "c": "_On",
+            "l": false,
+            "t": 51,
+            "v": true
+        },
+        {
+            "c": "_AnalogValue",
+            "l": false,
+            "t": 25,
+            "v": 1.0
+        },
+        {
+            "c": "_LagFrameCounter",
+            "l": true,
+            "t": 32,
+            "v": -1
+        },
+        {
+            "c": "_Repeat",
+            "l": false,
+            "t": 42,
+            "v": true
+        },
+        {
+            "c": "_LagTimer",
+            "l": true,
+            "t": 25,
+            "v": -0.053639505058527
+        },
+        {
+            "c": "_OnTrigger",
+            "l": false,
+            "t": 25,
+            "v": true
+        },
+        {
+            "c": "_LagFrameCounter",
+            "l": true,
+            "t": 25,
+            "v": -1
+        },
+        {
+            "c": "_LastRawTriggerIndex",
+            "l": false,
+            "t": 42,
+            "v": 0
+        },
+        {
+            "c": "_OnTrigger",
+            "l": false,
+            "t": 32,
+            "v": true
+        },
+        {
+            "c": "_RawOn",
+            "l": false,
+            "t": 25,
+            "v": true
+        },
+        {
+            "c": "_LagTimer",
+            "l": true,
+            "t": 42,
+            "v": -0.053639505058527
+        },
+        {
+            "c": "_Success",
+            "l": false,
+            "t": 42,
+            "v": true
+        },
+        {
+            "c": "_LastRawTriggerIndex",
+            "l": false,
+            "t": 25,
+            "v": 0
+        }
+    ]
+}

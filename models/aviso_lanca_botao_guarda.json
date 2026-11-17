@@ -1,0 +1,21 @@
+{
+    "achados": [
+        "Entrada._MkbPlayerInput[0]._Keys[15].<LagWorker>k__BackingField[0]._LagFrameCounter : 0 -> -1",
+        "Entrada._MkbPlayerInput[0]._Keys[15].<LagWorker>k__BackingField[0]._LagTimer : 0.0 -> -0.063074097037315",
+        "Entrada._MkbPlayerInput[0]._Keys[15]._AnalogValue : 0.0 -> 1.0",
+        "Entrada._MkbPlayerInput[0]._Keys[15]._LastRawTriggerIndex : -1 -> 0",
+        "Entrada._MkbPlayerInput[0]._Keys[15]._On : false -> true",
+        "Entrada._MkbPlayerInput[0]._Keys[15]._RawOn : false -> true",
+        "Entrada._MkbPlayerInput[0]._Keys[22].<LagWorker>k__BackingField[0]._LagFrameCounter : 0 -> -1",
+        "Entrada._MkbPlayerInput[0]._Keys[22].<LagWorker>k__BackingField[0]._LagTimer : 0.0 -> -0.063074097037315",
+        "Entrada._MkbPlayerInput[0]._Keys[22]._AnalogValue : 0.0 -> 1.0",
+        "Entrada._MkbPlayerInput[0]._Keys[22]._LastRawTriggerIndex : -1 -> 0",
+        "Entrada._MkbPlayerInput[0]._Keys[22]._On : false -> true",
+        "Entrada._MkbPlayerInput[0]._Keys[22]._RawOn : false -> true"
+    ],
+    "comandos": [
+        15,
+        22
+    ],
+    "valores_por_foto": 4016
+}

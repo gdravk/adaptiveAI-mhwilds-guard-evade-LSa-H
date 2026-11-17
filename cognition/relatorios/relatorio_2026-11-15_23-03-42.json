@@ -1,0 +1,136 @@
+{
+    "aprendidos_com_outros": 0,
+    "defesas": null,
+    "monstros": [
+        {
+            "animacoes": 44,
+            "cobertura": 32,
+            "id": "6",
+            "medicoes": 62,
+            "nome": "Congalala"
+        },
+        {
+            "animacoes": 4,
+            "cobertura": 0,
+            "id": "4",
+            "medicoes": 6,
+            "nome": "Yian Kut-Ku"
+        },
+        {
+            "animacoes": 53,
+            "cobertura": 31,
+            "id": "1",
+            "medicoes": 89,
+            "nome": "Rathalos"
+        },
+        {
+            "animacoes": 46,
+            "cobertura": 66,
+            "id": "6:t",
+            "medicoes": 161,
+            "nome": "Tempered Congalala"
+        },
+        {
+            "animacoes": 8,
+            "cobertura": 0,
+            "id": "29",
+            "medicoes": 8,
+            "nome": "Hirabami"
+        },
+        {
+            "animacoes": 58,
+            "cobertura": 66,
+            "id": "20",
+            "medicoes": 174,
+            "nome": "Quematrice"
+        },
+        {
+            "animacoes": 109,
+            "cobertura": 91,
+            "id": "8:t",
+            "medicoes": 1363,
+            "nome": "Tempered Lagiacrus"
+        },
+        {
+            "animacoes": 65,
+            "cobertura": 96,
+            "id": "19",
+            "medicoes": 1780,
+            "nome": "Chatacabra"
+        },
+        {
+            "animacoes": 2,
+            "cobertura": 0,
+            "id": "23",
+            "medicoes": 2,
+            "nome": "Rey Dau"
+        },
+        {
+            "animacoes": 15,
+            "cobertura": 43,
+            "id": "16",
+            "medicoes": 23,
+            "nome": "Doshaguma"
+        },
+        {
+            "animacoes": 79,
+            "cobertura": 61,
+            "id": "26",
+            "medicoes": 219
+        },
+        {
+            "animacoes": 62,
+            "cobertura": 13,
+            "id": "1:t",
+            "medicoes": 86,
+            "nome": "Tempered Rathalos"
+        },
+        {
+            "animacoes": 9,
+            "cobertura": 0,
+            "id": "13:t",
+            "medicoes": 9,
+            "nome": "Tempered Mizutsune"
+        }
+    ],
+    "prints": [
+        "== Defesa Automatica v0.87 ==",
+        "Arma: Long Sword (foresight > esquiva) - sacada: false - defesa: parada: arma guardada: o mod nao faz nada - jogadores: 1 - Guard Up: sim - M4: comandos 26",
+        "Tempos (ms antes do golpe): Foresight Slash 120 - esquiva 150 - ls_iss_ms 157 - ls_ss_min_ms 1700 - ls_ss_max_ms 3000 - ls_janela_combo_ms 2300 - ls_bloqueio_ms 400 - ls_trava_fixa_ms 2000",
+        "Long Sword: em combo = false - ultimo golpe seu ha 225.7s (janela 2300 ms) - sua animacao 15:15 - ataques aprendidos 84 - toques M5 38, M2 41",
+        "Long Sword: bloqueio dos seus botoes na animacao atual 400 ms - aprendido em 31 animacoes (maior 950 ms)",
+        "SS+ISS (prioridade 1, FS 2, esquiva 3): ligado - agora: - - nesta sessao: nenhum ainda",
+        "Spirit Gauge: nivel 1 (NONE) - vermelho a partir de 4 - abaixo do vermelho: SS+ISS > FS > esquiva - modo: normal - golpes que o FS nao defende: 4",
+        "ISS: 157 ms antes do golpe (ajusta sozinho) - golpe chegou depois do M5 nos ultimos ISS certos: -",
+        "SS: postura maxima 4000 ms (ainda nao medida) - SS sai de 25 animacoes suas (tempo que o seu golpe prende: 20:195 744ms (13/19), 20:198 434ms (1/1), 20:199 197ms (27/38), 20:200 398ms (42/52), 20:201 715ms (73/113), 20:202 356ms (2/3), 20:208 271ms (8/10), 20:209 610ms (3/6), 20:210 251ms (4/6), 20:211 394ms (29/34), 20:212 349ms (4/5), 20:213 1274ms (1/2), 20:252 342ms (14/25), 20:264 384ms (1/5), 20:265 268ms (3/6), 20:285 1034ms (3/4), 20:286 145ms (1/1), 20:288 154ms (8/11), 20:289 319ms (19/24), 20:292 261ms (2/2), 20:310 1142ms (1/3), 20:322 140ms (1/1), 20:323 518ms (1/1), 20:340 1225ms (1/1), 20:350 147ms (4/4)) - 17 animacoes onde o SS nao sai",
+        "Janela do combo (aprendida): FS ate 17 ms (saiu ate 0, nao saiu a partir de 33, 40 tentativas) - SS ate 2300 ms (saiu ate 0, nao saiu -, 40) - idade do combo agora 225738 ms",
+        "Trava: comandos extras descobertos: 82, 70, 27, 16, 53, 63",
+        "Seus golpes: 69 medidos (o mais longo prende 1433 ms) - golpe atual 15:15 prende - ms - ataques livres",
+        "Leitura do SS+ISS: desligada - 0 leituras salvas nesta sessao",
+        "Vida: 150 - ultimo dano ha 1125.7s",
+        "Ultimas defesas (nova primeiro): defesa - ms antes do golpe - sua animacao antes -> 0,25s depois - resultado",
+        "   (nenhuma ainda)",
+        "Ultima decisao: -",
+        "Ultimo resultado: -",
+        "Monstro: nenhum monstro grande por perto",
+        "Conhecimento (todos): 13 monstros, 554 animacoes, 3982 medicoes - previstos nesta sessao: 0 de 0 - ultimo erro: - - aprendidos no seu Palico: 0 - aprendidos defendendo (FS/ISS): 0",
+        "Aprendizado novo: por contato (esquivas / FS / ISS) 0 - contatos descartados 0 - pela area de ataque 0 (areas vistas 0, relogios acertados 0) - golpes repetidos vistos 0",
+        "Area de ataque: 165 animacoes com area vista, 29 confiaveis, 12 so com area (golpe nunca chegou em ninguem) - ganchos: contato ok, area ok, invencibilidade ok, fim da quest ok",
+        "Long Sword (jogo): contra do FS ativo - s, contra do ISS ativo - s, postura maxima - s - FS trocado por esquiva: 0 fora da janela, 0 sem barra - ISS esperou o jogo aceitar: 0",
+        "Geometria: areas medidas 0 (encostaram em voce 0, passaram perto 0, longe 0) - golpes previstos pela geometria 0 - projeteis vistos 0 - rugidos 0",
+        "Tipos de golpe sem dano vistos: nenhum",
+        "Golpes por estado do monstro (chegam antes - / depois +): sem dados",
+        "Velocidade das animacoes de golpe: sem dados",
+        "Guardas confirmadas pelo jogo: nenhuma",
+        "Long Sword - golpes com nome do jogo: 9 (1:25=cDash, 0:107=cDashStop, 1:240=cDash, 15:15=cFastTravelGo, 1:265=cDash, 0:253=cDash, 0:0=cIdle, 0:30=cDashStop, 0:88=cRun) - tabela salva: _ActionGuideData_Wp03 624, _ActionGuideData_Wp03Combo 3, _ActionGuideData_Wp03ComboDetail 16, _ActionGuideName_Wp03 79, _ActionGuideData_Wp03Always 37",
+        "M2 automatico (parado -> SS+ISS): 0 apertados, 0 abriram o combo, 0 nao sairam",
+        "Falhas (levou dano): 0 - previstas com menos de 0,8s de aviso: 0 - voce preso num golpe seu: 0 (sem trava antes: 0) - sem dado de aviso: 0",
+        "Golpes seus que comecaram com a trava ligada: 0 de 0 (nenhum)",
+        "Pedidos diretos ao jogo (so nas janelas): nenhum",
+        "Contatos de golpes em voce: 0 passaram, 0 falharam, 0 na sua invencibilidade",
+        "Invencibilidade: nenhum golpe pego na invencibilidade ainda",
+        "Monstros soltos (fim da quest / troca de cena): troca de cena 3"
+    ],
+    "salvo_as": "2026-11-15 23:05:05",
+    "versao_mod": "0.87"
+}

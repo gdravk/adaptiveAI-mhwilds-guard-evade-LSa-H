@@ -1,0 +1,85 @@
+
+### Lista Completa e Atualizada (34 Monstros Base + Variações)
+
+1. Ajarakan
+2. Tempered Ajarakan
+3. Arkveld
+4. Guardian Arkveld
+5. Tempered Arkveld
+6. Arch-tempered Arkveld
+7. Balahara
+8. Tempered Balahara
+9. Blangonga
+10. Tempered Blangonga
+11. Chatacabra
+12. Tempered Chatacabra
+13. Congalala
+14. Tempered Congalala
+15. Doshaguma
+16. Guardian Doshaguma
+17. Tempered Doshaguma
+18. Tempered Guardian Doshaguma
+19. Gogmazios
+20. Gore Magala
+21. Tempered Gore Magala
+22. Gravios
+23. Tempered Gravios
+24. Guardian Ebony Odogaron
+25. Tempered Guardian Ebony Odogaron
+26. Guardian Fulgur Anjanath
+27. Tempered Guardian Fulgur Anjanath
+28. Gypceros
+29. Tempered Gypceros
+30. Hirabami
+31. Tempered Hirabami
+32. Jin Dahaad
+33. Tempered Jin Dahaad
+34. Arch-tempered Jin Dahaad
+35. Lagiacrus
+36. Tempered Lagiacrus
+37. Lala Barina
+38. Tempered Lala Barina
+39. Mizutsune
+40. Tempered Mizutsune
+41. Nerscylla
+42. Tempered Nerscylla
+43. Nerscylla Clone
+44. Nu Udra
+45. Tempered Nu Udra
+46. Arch-tempered Nu Udra
+47. Omega Planetes
+48. Savage Omega Planetes
+49. Quematrice
+50. Tempered Quematrice
+51. Rathalos
+52. Guardian Rathalos
+53. Tempered Rathalos
+54. Tempered Guardian Rathalos
+55. Rathian
+56. Tempered Rathian
+57. Rey Dau
+58. Tempered Rey Dau
+59. Arch-tempered Rey Dau
+60. Rompopolo
+61. Tempered Rompopolo
+62. Seregios
+63. Tempered Seregios
+64. Uth Duna
+65. Tempered Uth Duna
+66. Arch-tempered Uth Duna
+67. Xu Wu
+68. Tempered Xu Wu
+69. Yian Kut-Ku
+70. Tempered Yian Kut-Ku
+71. Zoh Shia
+
+---
+
+### Notas sobre a Pesquisa e Atualizações
+
+- **Contagem Base:** O jogo possui **34 monstros grandes** no total, sendo 29 do lançamento e 5 adicionados por atualizações gratuitas (Gogmazios, Lagiacrus, Mizutsune, Omega Planetes e Seregios).
+- **Variações "Tempered" e "Arch-tempered":** Quase todos os monstros grandes podem aparecer na versão **Tempered** (com estatísticas elevadas). As exceções são **Zoh Shia**, **Guardian Arkveld** e **Gogmazios**. Já as versões **Arch-tempered** são ainda mais fortes e atualmente existem para: **Arkveld**, **Jin Dahaad**, **Nu Udra**, **Rey Dau** e **Uth Duna**.
+- **Variações Especiais:**
+  - **Nerscylla Clone:** Adicionado na colaboração com *Final Fantasy XIV* (Title Update 3). É uma versão mais agressiva da Nerscylla que dispara lasers.
+  - **Savage Omega Planetes:** É a versão de dificuldade máxima do Omega Planetes, disponível apenas em uma missão de evento permanente para caçadores de HR 100 ou superior.
+- **"Omega Micros"** e **"Guardian Seikret"** foram encontrados na wiki, mas são considerados monstros pequenos ou criaturas de suporte, por isso **não** entraram nesta lista de grandes caçáveis.

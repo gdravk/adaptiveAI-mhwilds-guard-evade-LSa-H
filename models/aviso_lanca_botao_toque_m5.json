@@ -1,0 +1,15 @@
+{
+    "achados": [
+        "Entrada._MkbPlayerInput[0]._Keys[15].<LagWorker>k__BackingField[0]._LagFrameCounter : 0 -> -1",
+        "Entrada._MkbPlayerInput[0]._Keys[15].<LagWorker>k__BackingField[0]._LagTimer : 0.0 -> -0.066666670143604",
+        "Entrada._MkbPlayerInput[0]._Keys[15]._LastRawTriggerIndex : -1 -> 0",
+        "Entrada._MkbPlayerInput[0]._Keys[22].<LagWorker>k__BackingField[0]._LagFrameCounter : 0 -> -1",
+        "Entrada._MkbPlayerInput[0]._Keys[22].<LagWorker>k__BackingField[0]._LagTimer : 0.0 -> -0.066666670143604",
+        "Entrada._MkbPlayerInput[0]._Keys[22]._LastRawTriggerIndex : -1 -> 0"
+    ],
+    "comandos": [
+        15,
+        22
+    ],
+    "valores_por_foto": 4016
+}
